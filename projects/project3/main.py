@@ -16,9 +16,12 @@ def baseline(argv):
     ARGS = parser.parse_args()
 
 
+    print("[Baseline] Loading dataset")
     descriptors = load_dataset(ARGS.input_file)
     # trying k-means
-    k_means = KMeans(n_clusters=3, random_state=0)
+
+    print("[Baseline] Clustering")
+    k_means = KMeans(n_clusters=4, random_state=0)
     k_means.fit(descriptors)
 
     predictions = k_means.predict(descriptors)
@@ -26,7 +29,7 @@ def baseline(argv):
     pca = PCA(n_components=2)
     pca.fit(descriptors)
     X_reduced = pca.transform(descriptors)
-
+    print("[Baseline] Plotting")
     plt.scatter(X_reduced[:, 0], X_reduced[:, 1], c=predictions,
            cmap='RdYlBu')
     plt.show()

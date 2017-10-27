@@ -2,9 +2,48 @@
 PROGRAM="RCNN-FER"
 
 CPU_REGISTRY_URL=so77id
-GPU_REGISTRY_URL=so77id
 CPU_VERSION=latest
-GPU_VERSION=latest
 CPU_DOCKER_IMAGE=tensorflow-opencv-cpu-py3
-GPU_DOCKER_IMAGE=tensorflow-opencv-gpu-py3
 
+
+#COMMANDS
+PYTHON_COMMAND=python3
+WGET_COMMNAND=wget
+UNZIP_COMMAND=unzip
+MV_COMMAND=mv
+RM_COMMAND=rm
+
+# FILES
+DATASET_ZIP_FILE=documents.zip
+DATASET_ZIP_FOLDER=documents
+
+#SRC FILES
+MAIN_FILE=main.py
+
+#FOLDERS
+DATABASE_FOLDER=./dataset
+
+#URLs
+DATASET_URL=https://www.dropbox.com/s/fjtbwf7f5p9f3lx/documents.zip
+
+
+#INPUTS
+INPUT_FILE=$(DATABASE_FOLDER)/data.csv
+
+#MAGIK NUMBERS
+DESCRIPTOR_SIZE=2209
+N_DESCRIPTORS=19924
+
+all: main
+
+setup s:
+	@echo "[Setup] Setup enviroment"
+	@$(WGET_COMMNAND) $(DATASET_URL)
+	@$(UNZIP_COMMAND) $(DATASET_ZIP_FILE)
+	@$(RM_COMMAND) $(DATASET_ZIP_FILE)
+	@$(MV_COMMAND) $(DATASET_ZIP_FOLDER) $(DATABASE_FOLDER)
+
+
+main m:
+	@echo "[Main] Executing"
+	@$(PYTHON_COMMAND) $(MAIN_FILE) -i $(INPUT_FILE) -ds $(DESCRIPTOR_SIZE) -nd $(N_DESCRIPTORS)

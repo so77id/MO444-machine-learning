@@ -3,22 +3,20 @@ import argparse
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
-from utils.load_dataset import load_dataset
+from utils.load_dataset import parse_descriptors
 from mpl_toolkits.mplot3d import Axes3D
 from sklearn.decomposition import PCA
 from sklearn.model_selection import train_test_split
+from sklearn.cluster import DBSCAN
+from sklearn import metrics
+
+
 
 def baseline(argv):
-    # Parse arguments
-    parser = argparse.ArgumentParser()
-    parser.add_argument('-i', '--input_file', help='input file', required=True)
-    parser.add_argument('-ds', '--descriptor_size', help='descriptor size', required=True)
-    parser.add_argument('-nd', '--n_descriptors', help='number of descriptors', required=True)
-    ARGS = parser.parse_args()
+    
+    # load dataset and parse descriptors
+    descriptors = parse_descriptors(argv)
 
-
-    print("[Baseline] Loading dataset")
-    descriptors = load_dataset(ARGS.input_file)
     # trying k-means
 
     print("[Baseline] Clustering")
@@ -30,7 +28,7 @@ def baseline(argv):
     """pca = PCA(n_components=2)
     pca.fit(descriptors)
     X_reduced = pca.transform(descriptors)
-    print("[Baseline] Plotting")
+    print("[Baseline] Plotting")s
     plt.scatter(X_reduced[:, 0], X_reduced[:, 1], c=predictions,
            cmap='RdYlBu')
     plt.show()"""
@@ -39,6 +37,9 @@ def baseline(argv):
     pca = PCA(n_components=3)
     pca.fit(descriptors)
     X_reduced = pca.transform(descriptors)
+
+    
+    
     print("[Baseline] Plotting")
     fig = plt.figure(1, figsize=(8,8))
     plt.clf()
@@ -49,6 +50,23 @@ def baseline(argv):
     plt.show()
 
 
+def dbscan(argv):
+    # load dataset and parse descriptors
+    descriptors = parse_descriptors(argv)
+
+    # trying k-means
+
+    print("[DBSCAN] Clustering")
+    db = DBSCAN(eps=0.3).fit(descriptors)
+    
+    labels = db.labels_
+    # Number of clusters in labels, ignoring noise if present.
+    n_clusters_ = len(set(labels)) - (1 if -1 in labels else 0)
+
+    print('Estimated number of clusters: %d' % n_clusters_)
+    print("Silhouette Coefficient: %0.3f"
+      % metrics.silhouette_score(descriptors, labels))
+
 
 if __name__ == "__main__":
-    sys.exit(baseline(sys.argv[1:]))
+    sys.exit(dbscan(sys.argv[1:]))

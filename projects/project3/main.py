@@ -9,7 +9,8 @@ from sklearn.decomposition import PCA
 from sklearn.model_selection import train_test_split
 from sklearn.cluster import DBSCAN
 from sklearn import metrics
-
+from sklearn import manifold
+from time import time
 
 
 def baseline(argv):
@@ -67,6 +68,25 @@ def dbscan(argv):
     print("Silhouette Coefficient: %0.3f"
       % metrics.silhouette_score(descriptors, labels))
 
+def tsne_(argv):
+    # load dataset and parse descriptors
+    descriptors = parse_descriptors(argv)
+    n_components = 2
+
+    t0 = time()
+    tsne = manifold.TSNE(n_components=n_components, init='pca', random_state=0)
+    Y = tsne.fit_transform(descriptors)
+    t1 = time()
+    print("t-SNE: %.2g sec" % (t1 - t0))
+    ax = fig.add_subplot(2, 5, 10)
+    plt.scatter(Y[:, 0], Y[:, 1], c=color, cmap=plt.cm.Spectral)
+    plt.title("t-SNE (%.2g sec)" % (t1 - t0))
+    ax.xaxis.set_major_formatter(NullFormatter())
+    ax.yaxis.set_major_formatter(NullFormatter())
+    plt.axis('tight')
+
+    plt.show()
+
 
 if __name__ == "__main__":
-    sys.exit(dbscan(sys.argv[1:]))
+    sys.exit(tsne_(sys.argv[1:]))

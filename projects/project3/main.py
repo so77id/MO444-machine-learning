@@ -25,6 +25,28 @@ def baseline(argv):
     k_means.fit(descriptors)
 
     predictions = k_means.predict(descriptors)
+    print("Silhouette Coefficient: %0.3f"
+      % metrics.silhouette_score(descriptors, predictions))
+    """
+    some results:
+    k=7
+    Silhouette Coefficient: 0.020
+    k=3
+    Silhouette Coefficient: 0.013
+    k=2
+    Silhouette Coefficient: 0.011
+    k=10
+    Silhouette Coefficient: 0.024
+    k=30
+    Silhouette Coefficient: 0.037
+    k=50
+    Silhouette Coefficient: 0.048
+    k=100
+    Silhouette Coefficient: 0.057
+    k=500
+    Silhouette Coefficient: 0.053
+
+    """
 
     """pca = PCA(n_components=2)
     pca.fit(descriptors)
@@ -38,7 +60,6 @@ def baseline(argv):
     pca = PCA(n_components=3)
     pca.fit(descriptors)
     X_reduced = pca.transform(descriptors)
-
     
     
     print("[Baseline] Plotting")
@@ -89,4 +110,4 @@ def tsne_(argv):
 
 
 if __name__ == "__main__":
-    sys.exit(tsne_(sys.argv[1:]))
+    sys.exit(baseline(sys.argv[1:]))

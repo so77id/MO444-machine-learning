@@ -99,15 +99,15 @@ def tsne_(argv):
     Y = tsne.fit_transform(descriptors)
     t1 = time()
     print("t-SNE: %.2g sec" % (t1 - t0))
+    fig = plt.figure(1, figsize=(8,8))
     ax = fig.add_subplot(2, 5, 10)
-    plt.scatter(Y[:, 0], Y[:, 1], c=color, cmap=plt.cm.Spectral)
+    plt.scatter(Y[:, 0], Y[:, 1], c='red', cmap=plt.cm.Spectral)
     plt.title("t-SNE (%.2g sec)" % (t1 - t0))
-    ax.xaxis.set_major_formatter(NullFormatter())
-    ax.yaxis.set_major_formatter(NullFormatter())
+    
     plt.axis('tight')
 
     plt.show()
 
 
 if __name__ == "__main__":
-    sys.exit(baseline(sys.argv[1:]))
+    sys.exit(dbscan(sys.argv[1:]))

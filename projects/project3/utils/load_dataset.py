@@ -1,11 +1,11 @@
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
-import argparse
 
 import numpy as np
 
 def load_dataset(file_name):
+    print("Loading dataset")
     with open(file_name, 'r') as file:
         descriptors = []
 

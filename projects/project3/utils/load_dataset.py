@@ -16,7 +16,7 @@ def load_dataset(file_name):
             descriptors.append(np.array(line, dtype=np.float64))
 
         descriptors = np.matrix(descriptors, dtype=np.float64)
-        return normalization(descriptors)
+        return np.array(normalization(descriptors), dtype=np.float64)
 
 
 

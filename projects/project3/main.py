@@ -6,7 +6,7 @@ import sys
 import argparse
 import numpy as np
 
-from utils.load_dataset import load_dataset
+from utils.load_dataset import load_dataset,get_hash_ids
 
 
 from sklearn import metrics
@@ -22,8 +22,6 @@ def main(argv):
     parser.add_argument('-n_components', '--n_components', help='number of components in pca', required=True)
     parser.add_argument('-k', '--k', help='k of kmeans', required=True)
     ARGS = parser.parse_args()
-
-
 
     descriptors = load_dataset(ARGS.input_file)
 

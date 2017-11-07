@@ -29,6 +29,7 @@ DATASET_URL=https://www.dropbox.com/s/fjtbwf7f5p9f3lx/documents.zip
 
 #INPUTS
 INPUT_FILE=$(DATABASE_FOLDER)/data.csv
+IDS_FILE=$(DATABASE_FOLDER)/ids
 METHOD_NAME=baseline
 # METHOD_NAME=dbscan
 # METHOD_NAME=tsne
@@ -50,4 +51,5 @@ setup s:
 main m:
 	@echo "[Main] Executing"
 	@# $(PYTHON_COMMAND) $(MAIN_FILE) -i $(INPUT_FILE) -ds $(DESCRIPTOR_SIZE) -nd $(N_DESCRIPTORS)
-	@$(PYTHON_COMMAND) $(MAIN_FILE) -i $(INPUT_FILE) -m $(METHOD_NAME)
+	@$(PYTHON_COMMAND) $(MAIN_FILE) -i $(INPUT_FILE) -m $(METHOD_NAME) -a $(IDS_FILE)
+

@@ -5,7 +5,7 @@ from __future__ import print_function
 import sys
 import argparse
 
-from utils.load_dataset import load_dataset
+from utils.load_dataset import load_dataset,get_hash_ids
 
 from methods.baseline import baseline
 from methods.dbscan import dbscan
@@ -21,15 +21,14 @@ def main(argv):
     # parser.add_argument('-ds', '--descriptor_size', help='descriptor size', required=True)
     # parser.add_argument('-nd', '--n_descriptors', help='number of descriptors', required=True)
     parser.add_argument('-m', '--method', help='method', required=True)
+    parser.add_argument('-a', '--ids', help='ids', required=True)
     ARGS = parser.parse_args()
 
-
-
     descriptors = load_dataset(ARGS.input_file)
-
+    dict_ids = get_hash_ids(ARGS.ids)
 
     if ARGS.method == "baseline":
-        baseline(descriptors)
+        baseline(descriptors,dict_ids)
     elif ARGS.method == "dbscan":
         dbscan(descriptors)
     elif ARGS.method == "tsne":

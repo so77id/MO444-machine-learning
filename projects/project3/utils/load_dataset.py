@@ -15,6 +15,15 @@ def load_dataset(file_name):
 
         return np.array(descriptors, dtype=np.float64)
 
+def get_hash_ids(file_name):
+    with open(file_name, 'r') as file:
+        dict_hash_ids={}
+        for idx, line in enumerate(file):
+            dict_hash_ids[idx] = line
+
+    
+    return dict_hash_ids
+
 
 def parse_descriptors(argv):
 	 # Parse arguments

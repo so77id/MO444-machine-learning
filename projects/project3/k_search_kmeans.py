@@ -74,7 +74,7 @@ def main(argv):
     plt.grid()
     plt.xlabel('k')
     plt.ylabel('Distortion')
-    plt.title('The Elbow Method showing the optimal k')
+    plt.title('The Elbow Method')
     fig.savefig(ARGS.distortion_out_file)
 
     # Plot the elbow with distortion
@@ -83,7 +83,7 @@ def main(argv):
     plt.grid()
     plt.xlabel('k')
     plt.ylabel('Silhouette Score')
-    plt.title('The Elbow Method showing the optimal k')
+    plt.title('Silhouette Score analysis')
     fig.savefig(ARGS.silhouette_out_file)
 
 if __name__ == "__main__":

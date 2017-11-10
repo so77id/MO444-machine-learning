@@ -1,0 +1,167 @@
+[Main] Executing
+Loading dataset
+PCA
+Kmeans
+Distortions
+Silhouettes
+COS K: 20 distortion: 0.67565568561 silhouette score: 0.078463324435
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 4d112bbf092330ef8021cdf6ea561c0e5b0c9bc0 label: ['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 34b4399b4b887d7811d91ac0006b665e2b4a8633 label: ['comp.windows.x']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: c3b234bda8cc8a949a9b974db05804b97b1d9fa2 label: ['alt.atheism']
+Cercanos:
+	 id: 6561222b929e1779add274822a565c95c35315c9 labels: ['alt.atheism']
+	 id: cbfa554949a7451c56d2b80e258dc1fcd42d3deb labels: ['talk.politics.guns']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: c21bb05cf2d5eeece9b8807d51384e754a46110d label: ['soc.culture.soviet', 'soc.culture.greek', 'soc.culture.iranian', 'soc.culture.turkish', 'soc.history', 'talk.politics.mideast']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: cbfa554949a7451c56d2b80e258dc1fcd42d3deb label: ['talk.politics.guns']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 294d11ccfff6d881255aa87a95bc18a58f4682db label: ['soc.religion.christian']
+Cercanos:
+	 id: 4d112bbf092330ef8021cdf6ea561c0e5b0c9bc0 labels: ['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 6561222b929e1779add274822a565c95c35315c9 label: ['alt.atheism']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 2f5b24f5d6368fb423d7e22682c7ef00986e0ed5 label: ['comp.sys.ibm.pc.hardware']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']

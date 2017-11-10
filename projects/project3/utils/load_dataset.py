@@ -34,11 +34,22 @@ def load_dataset(file_name):
 
 
 
-def get_hash_ids(file_name):
+def get_hash_ids(file_name, path='./dataset/docs'):
+
     with open(file_name, 'r') as file:
-        dict_hash_ids={}
+        ids = []
+        news_groups = {}
         for idx, line in enumerate(file):
-            dict_hash_ids[idx] = line
+            id_ = line.split('\n')[0]
+            ids.append(id_)
+            # print("processing:", id_)
+            with open("{}/{}".format(path,id_), 'r') as doc_in:
 
+                for line in doc_in:
+                    line = line.lower()
+                    if "newsgroups" in line:
+                        news_groups_line = line.split('\n')[0].split(' ')[-1].split(',')
+                        news_groups[id_] = news_groups_line
+                        break
 
-    return dict_hash_ids
+    return np.array(ids), news_groups

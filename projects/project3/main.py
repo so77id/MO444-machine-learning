@@ -18,6 +18,8 @@ from sklearn.metrics import pairwise_distances_argmin_min
 
 from nltk.cluster.kmeans import KMeansClusterer
 
+import pandas
+from collections import Counter
 
 def main(argv):
      # Parse arguments
@@ -77,6 +79,56 @@ def main(argv):
         for nn in knn:
             print("\t id:", medoids_ids[nn], "labels:", news_groups[medoids_ids[nn]])
 
+    metric = []
+
+    for i in range(int(225)):
+        ids_l = ids_list[np.where(predictions == i)]
+
+    #     if len(ids_l) == 0:
+    #         counter_0+=1
+    #         continue
+        clusters_labels = []
+        for id_l in ids_l:
+            label_list = news_groups[id_l]
+            for ll in label_list:
+                clusters_labels.append(ll)
+
+        clnp = np.array(clusters_labels)
+        uni, con = np.unique(clnp, return_counts=True)
+        #letter_counts = Counter(clusters_labels)
+        #df = pandas.DataFrame.from_dict(letter_counts, orient='index')
+
+        ind = np.argsort(con)[::-1]
+        uni = uni[ind]
+        con = con[ind]
+
+        maxim = con.sum()
+        cont = con[0]
+
+        label = uni[0]
+        uni = uni[1:]
+        con = con[1:]
+        marker = np.zeros(uni.shape)
+
+
+        for s in label.split('.'):
+            for j in range(uni.shape[0]):
+                if marker[j] == 0 and s in uni[j]:
+                    cont += con[j]
+                    marker[j] = 1
+
+
+    #     print("cluster:", i, "metrica:", cont/maxim  )
+        metric.append(cont/maxim)
+
+
+    metric = np.array(metric, dtype=np.float)
+
+    print("mean:", metric.mean())
+    print("std:",metric.std())
+    print("median:",np.median(metric))
+    print("Min:",np.min(metric))
+    print("Max:",np.max(metric))
 
     return 0
 

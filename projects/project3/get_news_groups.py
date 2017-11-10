@@ -12,6 +12,8 @@ from utils.load_dataset import get_hash_ids
 
 import matplotlib.pyplot as plt
 
+plt.style.use('./presentation.mplstyle')
+
 def main(argv):
      # Parse arguments
     parser = argparse.ArgumentParser()
@@ -45,7 +47,7 @@ def main(argv):
     keys = keys[i]
     values = values[i]
     norm_values = values/values.sum()
-    sum_norms = norm_values[:20].sum()
+    sum_norms = norm_values[:30].sum()
     print(keys.shape)
     print("NORM SUM:", sum_norms)
 
@@ -54,8 +56,8 @@ def main(argv):
     print("STD:", values.std())
     print("MODA:", np.bincount(values).argmax())
 
-    plot_values = values[:20]
-    plot_keys = keys[:20]
+    plot_values = values[:30]
+    plot_keys = keys[:30]
 
     # Plot the elbow with distortion
     fig, ax = plt.subplots()

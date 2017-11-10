@@ -19,7 +19,7 @@ from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
 from nltk.cluster.kmeans import KMeansClusterer
 
-
+plt.style.use('./presentation.mplstyle')
 
 #http://www.sthda.com/english/articles/29-cluster-validation-essentials/96-determining-the-optimal-number-of-clusters-3-must-know-methods/
 

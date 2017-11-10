@@ -1,0 +1,1807 @@
+[Main] Executing
+Loading dataset
+PCA
+Kmeans
+Distortions
+Silhouettes
+COS K: 225 distortion: 0.424510658825 silhouette score: 0.154158013021
+
+Medoid id: 4a2d60ef2932a196bd807a0ebcc44ad0c9da79f2 label: ['soc.culture.arabic', 'soc.culture.bosna-herzgvna', 'soc.culture.indian', 'soc.culture.iranian', 'soc.culture.jewish', 'soc.culture.pakistan', 'soc.culture.turkish', 'soc.culture.afganistan', 'talk.politics.mideast', 'soc.culture.african', 'soc.culture.malaysia']
+Cercanos:
+	 id: a089a8313424e3c34be75f4ea92a7c1cd8fb3299 labels: ['talk.politics.mideast', 'talk.politics.soviet', 'soc.culture.greek', 'soc.history', 'soc.culture.soviet', 'soc.culture.turkish', 'soc.rights.human']
+	 id: 00bd9c9534b4d3e46b0a247089e350df619c92c9 labels: ['soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish']
+	 id: c43a3ceac1aa615adc1af456d15e8b1596f68d20 labels: ['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+	 id: a749dee518d288fb2e766edc0fe1b0f221479319 labels: ['talk.politics.mideast', 'soc.culture.arabic']
+	 id: 72f8393bc3dd55d142342f1eefab766c350ae284 labels: ['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+
+Medoid id: 1d00b4ff7757ea9d870b5b5856bcf5cc1bc77075 label: ['rec.motorcycles']
+Cercanos:
+	 id: 800ebd6839fbb7ba3bf44348c46039e15c3c49db labels: ['comp.sys.amiga.marketplace', 'misc.forsale']
+	 id: 1a078caccd6b589838401aecac044f597bb2341a labels: ['alt.atheism']
+	 id: 4bc75adda4f50c2e9d235e35fec57f08543d0c53 labels: ['sci.electronics']
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: 05c40fd3009ca9d041bd1ee0436767051b16992a labels: ['misc.forsale']
+
+Medoid id: 7ba51eb8d8c20c861ce5cb6795666215a973d41f label: ['sci.crypt']
+Cercanos:
+	 id: 4f83960672c33c678289e814415e5049f7ec9860 labels: ['sci.crypt', 'alt.privacy.clipper']
+	 id: b56cb4e51dd1f58e4f7aa5e131b45589bdff1015 labels: ['sci.crypt', 'alt.privacy.clipper']
+	 id: 39721cfbaf591d6c53dfc519caa0477c1eb3d1b3 labels: ['sci.med']
+	 id: 25c381ed06c64668285d4a456fe2a439125d028b labels: ['sci.crypt']
+	 id: 8096eecd5215a6dcb54343143c9c4266a168d99f labels: ['sci.crypt', 'sci.answers', 'news.answers']
+
+Medoid id: 14e3fa5d2d6f5398b307735a3a39d53424e15cec label: ['misc.forsale']
+Cercanos:
+	 id: 4594e0e6b7710248298ec49b1e111c152ca65884 labels: ['misc.forsale']
+	 id: 615c62b07c46c17d16ed03313f95ca28087c1af7 labels: ['wpi.forsale', 'ne.forsale', 'us.forsale.computers', 'us.forsale.misc', 'misc.forsale', 'misc.forsale.computers.other', 'misc.forsale.computers.pc-clone']
+	 id: ab13da13a1e6620af48d3e47b30a6b22436e65b9 labels: ['phl.forsale', 'nj.forsale', 'misc.forsale']
+	 id: 2ae421c88e8c5ddc42880ad959371122b192be82 labels: ['sci.space']
+	 id: 17d32428b866623193bac100a5369f5f05e9c34c labels: ['sci.space']
+
+Medoid id: f661d009212fef129ef0a121fa51c73f40a86e28 label: ['talk.politics.guns']
+Cercanos:
+	 id: 25c381ed06c64668285d4a456fe2a439125d028b labels: ['sci.crypt']
+	 id: ac6a3df74963ea71e6fbbdaa192b85a287834bf3 labels: ['rec.autos']
+	 id: 9445fd74af22f1a31f054e02d76abcc9a003b6d6 labels: ['talk.politics.guns', 'talk.politics.misc', 'alt.drugs', 'alt.conspiracy']
+	 id: fbefff3f9e75f68896fdf45b6fde6b03859a5e3f labels: ['talk.politics.mideast']
+	 id: b56cb4e51dd1f58e4f7aa5e131b45589bdff1015 labels: ['sci.crypt', 'alt.privacy.clipper']
+
+Medoid id: 157d1abf1da3d49622c8d1370416f2eb98581ca5 label: ['talk.politics.mideast']
+Cercanos:
+	 id: 746696fc12da427d14a40eedaefd0332364ddcff labels: ['comp.graphics']
+	 id: ce7cd237511b65856c33e25a65774fdba458746a labels: ['alt.activism.d', 'talk.politics.misc', 'talk.politics.medicine']
+	 id: 8e2fd0ca253d9666c7624b76f7bbffbd36e1e98c labels: ['talk.politics.mideast']
+	 id: 0166bfe37ab3181137c207a29a82239bffbbde96 labels: ['rec.sport.hockey']
+	 id: 72ab0d3dd3676e24dc0e1368355c42c9013d21d4 labels: ['misc.forsale']
+
+Medoid id: 975fa1e76a504602033ac105cb952d278d0cd220 label: ['sci.electronics']
+Cercanos:
+	 id: abebf2075eae27122f4bae54c799cd6da7c75adf labels: ['sci.med']
+	 id: 6a55dc994e48fbd87f1db6c472515e4f238e597a labels: ['sci.space']
+	 id: 44419458dc8929c48a33bc9c89ba7bd6fc4c4161 labels: ['rec.sport.hockey']
+	 id: a9d44f409d220687c118f91f126794d342e021a9 labels: ['sci.energy', 'sci.image.processing', 'sci.anthropology', 'alt.sci.physics.new-theories', 'sci.skeptic', 'sci.med', 'alt.alien.visitors']
+	 id: 92d2680fc2c098d71e6dd207dc84cfd313fee992 labels: ['comp.sys.ibm.pc.hardware']
+
+Medoid id: a9d44f409d220687c118f91f126794d342e021a9 label: ['sci.energy', 'sci.image.processing', 'sci.anthropology', 'alt.sci.physics.new-theories', 'sci.skeptic', 'sci.med', 'alt.alien.visitors']
+Cercanos:
+	 id: 137306304723a13c67c09cc0694b8d9e8724d00c labels: ['sci.space.shuttle', 'sci.space']
+	 id: 7bf91a1bb44add03871c365a00303a110fe57b40 labels: ['sci.image.processing', 'alt.graphics.pixutils', 'comp.graphics']
+	 id: 6439e880f811432545a50f8434229635769da9e2 labels: ['sci.space', 'sci.astro', 'alt.sci.planetary']
+	 id: efdcff152d3114d7343ad6907faebf3033114628 labels: ['misc.consumers', 'sci.med', 'rec.food.cooking', 'sci.environment']
+	 id: ef1f62c98d5b50f5868e259c0b295381a1a98170 labels: ['sci.crypt', 'alt.security.pgp', 'alt.privacy', 'comp.org.eff.talk']
+
+Medoid id: b59568ce29cf32083825310b3b9a987d0b3f4110 label: ['talk.politics.mideast']
+Cercanos:
+	 id: 00bd9c9534b4d3e46b0a247089e350df619c92c9 labels: ['soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish']
+	 id: 304047db49cffdcce3cba60ccfa7039accf61fdd labels: ['alt.atheism']
+	 id: 46e30c1c888ad1cb4b19a5f927e862cccf6a1880 labels: ['talk.politics.mideast']
+	 id: 627410592b32f9ff34e021a30ba61cdbaa4fbcf7 labels: ['sci.space']
+	 id: 1aed40fd897f542ae8b9103f100747641edb41d3 labels: ['talk.politics.mideast']
+
+Medoid id: 25c381ed06c64668285d4a456fe2a439125d028b label: ['sci.crypt']
+Cercanos:
+	 id: f661d009212fef129ef0a121fa51c73f40a86e28 labels: ['talk.politics.guns']
+	 id: 7ba51eb8d8c20c861ce5cb6795666215a973d41f labels: ['sci.crypt']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 2dceedffab41a1053ac79848903f9b3801f52d5e label: ['misc.forsale']
+Cercanos:
+	 id: ac6a3df74963ea71e6fbbdaa192b85a287834bf3 labels: ['rec.autos']
+	 id: 98be31218ff07d60d7ca2d46e5d7d51e686f714e labels: ['alt.atheism']
+	 id: 615c62b07c46c17d16ed03313f95ca28087c1af7 labels: ['wpi.forsale', 'ne.forsale', 'us.forsale.computers', 'us.forsale.misc', 'misc.forsale', 'misc.forsale.computers.other', 'misc.forsale.computers.pc-clone']
+	 id: a620887c6676b6a13d24e25a43e61806d403955c labels: ['misc.forsale']
+	 id: 55a5468b60d7b3afd0eee49e3bd42912578b41b4 labels: ['rec.autos']
+
+Medoid id: 0166bfe37ab3181137c207a29a82239bffbbde96 label: ['rec.sport.hockey']
+Cercanos:
+	 id: 44419458dc8929c48a33bc9c89ba7bd6fc4c4161 labels: ['rec.sport.hockey']
+	 id: 94bf2b8beb71ee93a6b2123b506f7fe6cb0776fa labels: ['rec.autos']
+	 id: 157d1abf1da3d49622c8d1370416f2eb98581ca5 labels: ['talk.politics.mideast']
+	 id: d80ea4ec98cac6e10da7fcea9ea3fb596fe730e2 labels: ['rec.sport.hockey']
+	 id: 68d9caa887d4d05b108bd1d92e737052151b2fda labels: ['rec.sport.baseball']
+
+Medoid id: 0f8bdee0db176daa86c49c054a0736fb0f557356 label: ['comp.graphics', 'comp.graphics.animation', 'comp.graphics.avs', 'comp.graphics.explorer']
+Cercanos:
+	 id: ebf6f6c0a210d201dfb909e985533e87b100662f labels: ['comp.graphics', 'comp.graphics.visualization']
+	 id: 4c4b28ea7fe6806dea6cc4c9293c354433017c5e labels: ['comp.graphics', 'comp.graphics.animation']
+	 id: 746696fc12da427d14a40eedaefd0332364ddcff labels: ['comp.graphics']
+	 id: c536c681f0d8d00c9558cf17908366295e989261 labels: ['comp.graphics']
+	 id: f0c161882fa4c61a7fb841083a3ca9898763077d labels: ['alt.binaries.pictures.utilities', 'comp.graphics', 'alt.binaries.pictures.d', 'alt.binaries.pictures.erotica.d']
+
+Medoid id: 366ae5fa9ba3d77de51dde2471cdc3b8355c8e76 label: ['sci.med']
+Cercanos:
+	 id: c424be8290aa70bf842f63aaf538c7adeb6d3903 labels: ['sci.med']
+	 id: e3ab3b59ee9f86e6bc1363a006af9e6deeb9a286 labels: ['comp.sys.ibm.pc.misc', 'comp.sys.ibm.pc.hardware']
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: 529119e6b7a113ad88857371d603709d3a7a245a labels: ['sci.med']
+	 id: 2f5b24f5d6368fb423d7e22682c7ef00986e0ed5 labels: ['comp.sys.ibm.pc.hardware']
+
+Medoid id: 73409de5851ff5fe8b6ffd66cce6335929398428 label: ['alt.security', 'comp.org.eff.talk', 'comp.security.misc', 'comp.org.acm', 'comp.org.ieee', 'sci.crypt']
+Cercanos:
+	 id: ef1f62c98d5b50f5868e259c0b295381a1a98170 labels: ['sci.crypt', 'alt.security.pgp', 'alt.privacy', 'comp.org.eff.talk']
+	 id: 500d789663c15768138c83b3aa55d1892fbb439b labels: ['talk.politics.mideast']
+	 id: e4933120778b19c070c42743940fce7c135b542e labels: ['comp.sys.mac.hardware', 'comp.sys.mac.misc', 'comp.sys.mac.apps', 'comp.sys.mac.system']
+	 id: a9d44f409d220687c118f91f126794d342e021a9 labels: ['sci.energy', 'sci.image.processing', 'sci.anthropology', 'alt.sci.physics.new-theories', 'sci.skeptic', 'sci.med', 'alt.alien.visitors']
+	 id: a504a9274abd685e421c5b04a639c084c2309f34 labels: ['talk.politics.mideast']
+
+Medoid id: db573d9cd1949a4a53ef759ea8e2e4b596e01c70 label: ['alt.atheism', 'talk.bizarre']
+Cercanos:
+	 id: 5d78e781ffeb4046d29dae2f85b6d3ba5efa8dbc labels: ['talk.religion.misc']
+	 id: 060bc7f577f8810edfd4e1d3b717732b870a83ef labels: ['alt.atheism']
+	 id: 9a8622337c3256a678ded8b05fe71b4142c9e91b labels: ['comp.sys.mac.hardware']
+	 id: 6dca76bf6683103b62d2dbea05b05d56558d53dd labels: ['rec.sport.hockey']
+	 id: 4c4b28ea7fe6806dea6cc4c9293c354433017c5e labels: ['comp.graphics', 'comp.graphics.animation']
+
+Medoid id: bb77bf904175df31b188ec8f0ff45d99bf3b819d label: ['misc.forsale']
+Cercanos:
+	 id: e3ab3b59ee9f86e6bc1363a006af9e6deeb9a286 labels: ['comp.sys.ibm.pc.misc', 'comp.sys.ibm.pc.hardware']
+	 id: ec80b433c8db509236e851507ce0efdadc206063 labels: ['sci.med']
+	 id: 615c62b07c46c17d16ed03313f95ca28087c1af7 labels: ['wpi.forsale', 'ne.forsale', 'us.forsale.computers', 'us.forsale.misc', 'misc.forsale', 'misc.forsale.computers.other', 'misc.forsale.computers.pc-clone']
+	 id: 97dcca5828a8f2f522391f0b8290e37fe42a2178 labels: ['soc.religion.christian']
+	 id: a620887c6676b6a13d24e25a43e61806d403955c labels: ['misc.forsale']
+
+Medoid id: 68d9caa887d4d05b108bd1d92e737052151b2fda label: ['rec.sport.baseball']
+Cercanos:
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: a620887c6676b6a13d24e25a43e61806d403955c labels: ['misc.forsale']
+	 id: 169617b702dffe201c44fa2beed1787d192a7d58 labels: ['misc.forsale']
+	 id: 1f36230ca84052421d0c1545d8c7357b44d20970 labels: ['rec.sport.hockey']
+	 id: 4ef849e0c407a709691a1b3c1bb580194ffad2fe labels: ['rec.motorcycles']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: a60d6b1ddf2226ff68746b401cb7ff2994bf361a label: ['comp.os.ms-windows.misc']
+Cercanos:
+	 id: 84147e95fdb5b2c727e78d2bc6b76240f75c0784 labels: ['alt.fan.bill-gates', 'comp.os.ms-windows.advocacy', 'comp.os.ms-windows.misc']
+	 id: 513c485118a402c1ec5e77e0aab9bfff31a6471a labels: ['fl.forsale', 'misc.forsale', 'rec.arts.comics.marketplace', 'rec.collecting']
+	 id: 8383212dcb66c43ec19e93280eb2932ceafa081b labels: ['comp.sys.mac.hardware']
+	 id: 7bf91a1bb44add03871c365a00303a110fe57b40 labels: ['sci.image.processing', 'alt.graphics.pixutils', 'comp.graphics']
+	 id: 16c008bace35ceae644b79d774967f1af06e1bce labels: ['comp.os.ms-windows.apps', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+
+Medoid id: 3729a11d12183cf92caedd20d86f99fc596b3adc label: ['rec.autos']
+Cercanos:
+	 id: ecc54f5b966d1000f42ab957df19ec0876722f7f labels: ['rec.motorcycles']
+	 id: f091e389919a78a0c04edc77bdd6cafc5bebc3ce labels: ['rec.autos', 'rec.autos.tech', 'rec.autos.sport', 'rec.autos.driving', 'rec.autos.vw', 'alt.autos.antique', 'news.answers']
+	 id: 1b9bd09d7e0a7649bb0118aa2c3458df96632cb0 labels: ['sci.med']
+	 id: 05c40fd3009ca9d041bd1ee0436767051b16992a labels: ['misc.forsale']
+	 id: f661d009212fef129ef0a121fa51c73f40a86e28 labels: ['talk.politics.guns']
+
+Medoid id: d6194c7188c7f36d7d706ec9510d167c1dddae60 label: ['talk.politics.misc']
+Cercanos:
+	 id: 5038dd82c05029e55d08932198fa73e9623e9789 labels: ['sci.electronics']
+	 id: 1af7fd6dc07c68a239b619fd95dc1174551c045e labels: ['sci.crypt']
+	 id: 17d32428b866623193bac100a5369f5f05e9c34c labels: ['sci.space']
+	 id: 9445fd74af22f1a31f054e02d76abcc9a003b6d6 labels: ['talk.politics.guns', 'talk.politics.misc', 'alt.drugs', 'alt.conspiracy']
+	 id: ce789beb1b5318cbf5ecbdae2500a9fa55d11733 labels: ['sci.space']
+
+Medoid id: d1bc8f2598290995c294fb881b81214765c18daa label: ['comp.sys.mac.hardware']
+Cercanos:
+	 id: d80ea4ec98cac6e10da7fcea9ea3fb596fe730e2 labels: ['rec.sport.hockey']
+	 id: bb77bf904175df31b188ec8f0ff45d99bf3b819d labels: ['misc.forsale']
+	 id: 67449d467b0e2579fc5d19b31f3297e80cf87265 labels: ['comp.os.ms-windows.misc']
+	 id: e4933120778b19c070c42743940fce7c135b542e labels: ['comp.sys.mac.hardware', 'comp.sys.mac.misc', 'comp.sys.mac.apps', 'comp.sys.mac.system']
+	 id: 06d946414dc155282d322bbd2795201396de914b labels: ['comp.graphics', 'alt.cad.autocad']
+
+Medoid id: ee4f138167b8c54d304b8ead826b17ae5a4cae9d label: ['soc.religion.christian']
+Cercanos:
+	 id: 97dcca5828a8f2f522391f0b8290e37fe42a2178 labels: ['soc.religion.christian']
+	 id: fb7ef7e76baff5e5bf4d52a05c86fa32a8a17377 labels: ['soc.religion.christian']
+	 id: a2b23f652a27debefe2ae651876b20f112cc0071 labels: ['soc.religion.christian']
+	 id: 2eedc4c74e5fdd6e0681ab5b6c6296c930ff1749 labels: ['soc.religion.christian']
+	 id: cab1a055f80a33734b3f9403b7e54bafdf3f0d25 labels: ['talk.politics.misc', 'alt.sex']
+
+Medoid id: 4594e0e6b7710248298ec49b1e111c152ca65884 label: ['misc.forsale']
+Cercanos:
+	 id: 73449a124d754e6f0d6c2392c89b664551d2c2dc labels: ['comp.windows.x']
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: 14e3fa5d2d6f5398b307735a3a39d53424e15cec labels: ['misc.forsale']
+	 id: 615c62b07c46c17d16ed03313f95ca28087c1af7 labels: ['wpi.forsale', 'ne.forsale', 'us.forsale.computers', 'us.forsale.misc', 'misc.forsale', 'misc.forsale.computers.other', 'misc.forsale.computers.pc-clone']
+	 id: e86aa3849668d92a614195491ae2fb2e850f28aa labels: ['comp.windows.x']
+
+Medoid id: 513c485118a402c1ec5e77e0aab9bfff31a6471a label: ['fl.forsale', 'misc.forsale', 'rec.arts.comics.marketplace', 'rec.collecting']
+Cercanos:
+	 id: ab13da13a1e6620af48d3e47b30a6b22436e65b9 labels: ['phl.forsale', 'nj.forsale', 'misc.forsale']
+	 id: d80ea4ec98cac6e10da7fcea9ea3fb596fe730e2 labels: ['rec.sport.hockey']
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: 8383212dcb66c43ec19e93280eb2932ceafa081b labels: ['comp.sys.mac.hardware']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: e9e01d61e71fd7e7999333a9d2a90fcaaf92947e label: ['comp.windows.x']
+Cercanos:
+	 id: 7d306e0f68fed851af325db6fe88c34dd1507b75 labels: ['talk.politics.misc']
+	 id: 1af7fd6dc07c68a239b619fd95dc1174551c045e labels: ['sci.crypt']
+	 id: abebf2075eae27122f4bae54c799cd6da7c75adf labels: ['sci.med']
+	 id: 8e2fd0ca253d9666c7624b76f7bbffbd36e1e98c labels: ['talk.politics.mideast']
+	 id: ddccd7e49eccfcac313c0ae98af2562bee526d28 labels: ['talk.politics.mideast']
+
+Medoid id: 54a3bfffdf351ceebbbda03423f29516907ab227 label: ['comp.sys.ibm.pc.hardware']
+Cercanos:
+	 id: 94bf2b8beb71ee93a6b2123b506f7fe6cb0776fa labels: ['rec.autos']
+	 id: 73001832ed876fa2d6cea2614f72237b20543999 labels: ['sci.electronics']
+	 id: 157d1abf1da3d49622c8d1370416f2eb98581ca5 labels: ['talk.politics.mideast']
+	 id: 84147e95fdb5b2c727e78d2bc6b76240f75c0784 labels: ['alt.fan.bill-gates', 'comp.os.ms-windows.advocacy', 'comp.os.ms-windows.misc']
+	 id: 92adb33dd9ac8f913ec9017bacd0b3313de806c3 labels: ['talk.politics.guns', 'alt.fan.rush-limbaugh']
+
+Medoid id: 92adb33dd9ac8f913ec9017bacd0b3313de806c3 label: ['talk.politics.guns', 'alt.fan.rush-limbaugh']
+Cercanos:
+	 id: 342d72bb0098926d03d0be368e041b8a5587aa60 labels: ['alt.conspiracy', 'talk.politics.misc', 'talk.religion.misc']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: a04d2b42ea52915f01fb613842e9314a5ee5b0ae label: ['comp.sys.ibm.pc.hardware']
+Cercanos:
+	 id: 1b2a3a42e67408a3c92c5e49d6e34eaca2b06685 labels: ['comp.os.ms-windows.misc']
+	 id: 6bebb0a105589f9eb0e3067e4df156fe72206379 labels: ['comp.sys.ibm.pc.hardware']
+	 id: 9a8622337c3256a678ded8b05fe71b4142c9e91b labels: ['comp.sys.mac.hardware']
+	 id: 4c4b28ea7fe6806dea6cc4c9293c354433017c5e labels: ['comp.graphics', 'comp.graphics.animation']
+	 id: df98b7b32f4eca73b8e2b30cc60f97722c6e0c71 labels: ['comp.sys.ibm.pc.hardware']
+
+Medoid id: 2eedc4c74e5fdd6e0681ab5b6c6296c930ff1749 label: ['soc.religion.christian']
+Cercanos:
+	 id: ee4f138167b8c54d304b8ead826b17ae5a4cae9d labels: ['soc.religion.christian']
+	 id: 97dcca5828a8f2f522391f0b8290e37fe42a2178 labels: ['soc.religion.christian']
+	 id: fb7ef7e76baff5e5bf4d52a05c86fa32a8a17377 labels: ['soc.religion.christian']
+	 id: 04f657ab1c586aad3bfdcf630791050fd3772313 labels: ['soc.religion.christian']
+	 id: a2b23f652a27debefe2ae651876b20f112cc0071 labels: ['soc.religion.christian']
+
+Medoid id: 094060f621ae3b1d04c6a7139fa98b5b2b6b9056 label: ['rec.autos']
+Cercanos:
+	 id: ac6a3df74963ea71e6fbbdaa192b85a287834bf3 labels: ['rec.autos']
+	 id: f1766a605408304b7a66603fd1caaf8ab876eb36 labels: ['comp.graphics']
+	 id: 63a89dc1d61945a78a367207e1cc6ac645ab30f0 labels: ['rec.autos']
+	 id: 03b460548ee071decfc234132f73cee41602c795 labels: ['rec.autos', 'rec.autos.tech']
+	 id: bb77bf904175df31b188ec8f0ff45d99bf3b819d labels: ['misc.forsale']
+
+Medoid id: 51f32fb189fdf4de01ecbe3948e810df79416313 label: ['talk.politics.misc', 'ca.politics', 'ba.politics', 'alt.sex', 'soc.men', 'misc.legal']
+Cercanos:
+	 id: cab1a055f80a33734b3f9403b7e54bafdf3f0d25 labels: ['talk.politics.misc', 'alt.sex']
+	 id: 0955dfc5fa176ff8e816d37459879ae12529b3ec labels: ['talk.politics.misc', 'alt.politics.usa.misc', 'alt.politics.libertarian', 'alt.politics.clinton', 'alt.politics.bush', 'alt.politics.perot', 'alt.fan.rush-limbaugh']
+	 id: 740c2130cf95fbf92f40c67b5bf16d5929a51b79 labels: ['soc.religion.christian']
+	 id: c43a3ceac1aa615adc1af456d15e8b1596f68d20 labels: ['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+	 id: 533c2b6fc4af3cb3d7c9ad61b946293bc9575b9a labels: ['talk.politics.misc']
+
+Medoid id: 6757f5679b64bd4198da108a731ed692bf0f93fb label: ['rec.autos']
+Cercanos:
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: 8383212dcb66c43ec19e93280eb2932ceafa081b labels: ['comp.sys.mac.hardware']
+	 id: f091e389919a78a0c04edc77bdd6cafc5bebc3ce labels: ['rec.autos', 'rec.autos.tech', 'rec.autos.sport', 'rec.autos.driving', 'rec.autos.vw', 'alt.autos.antique', 'news.answers']
+	 id: ab13da13a1e6620af48d3e47b30a6b22436e65b9 labels: ['phl.forsale', 'nj.forsale', 'misc.forsale']
+
+Medoid id: 8383212dcb66c43ec19e93280eb2932ceafa081b label: ['comp.sys.mac.hardware']
+Cercanos:
+	 id: 05c40fd3009ca9d041bd1ee0436767051b16992a labels: ['misc.forsale']
+	 id: 22a95553eb15e01422ef9a3b2ba42f0f7dc32082 labels: ['comp.sys.mac.hardware']
+	 id: 9a8622337c3256a678ded8b05fe71b4142c9e91b labels: ['comp.sys.mac.hardware']
+	 id: 513c485118a402c1ec5e77e0aab9bfff31a6471a labels: ['fl.forsale', 'misc.forsale', 'rec.arts.comics.marketplace', 'rec.collecting']
+	 id: 6757f5679b64bd4198da108a731ed692bf0f93fb labels: ['rec.autos']
+
+Medoid id: 539834e798cb3c028a40e5364835e05e5150ce87 label: ['rec.sport.baseball']
+Cercanos:
+	 id: be8b55d512ddc07bb315f158a5c67556237feed6 labels: ['rec.autos']
+	 id: d7cb72b2ffd88b8fbb3821f9eddc970f346a8850 labels: ['rec.sport.hockey']
+	 id: f17b4c5fa4b3e5e9d23a9f4f038c169e8886372d labels: ['alt.atheism']
+	 id: 299fb12b4eac2477a3abaa7f4451636c88b018ef labels: ['rec.sport.baseball']
+	 id: 157d1abf1da3d49622c8d1370416f2eb98581ca5 labels: ['talk.politics.mideast']
+
+Medoid id: cc780afc0a02281bfef88b2f367a35b333b0a6a8 label: ['sci.med']
+Cercanos:
+	 id: aab409bbf3c9f998dcf417df84307ae175a35d84 labels: ['sci.med']
+	 id: 137306304723a13c67c09cc0694b8d9e8724d00c labels: ['sci.space.shuttle', 'sci.space']
+	 id: 627410592b32f9ff34e021a30ba61cdbaa4fbcf7 labels: ['sci.space']
+	 id: 936be707704446f6b312bd96d3d299d73379c90b labels: ['rec.motorcycles']
+	 id: 2eedc4c74e5fdd6e0681ab5b6c6296c930ff1749 labels: ['soc.religion.christian']
+
+Medoid id: f0c161882fa4c61a7fb841083a3ca9898763077d label: ['alt.binaries.pictures.utilities', 'comp.graphics', 'alt.binaries.pictures.d', 'alt.binaries.pictures.erotica.d']
+Cercanos:
+	 id: 0955dfc5fa176ff8e816d37459879ae12529b3ec labels: ['talk.politics.misc', 'alt.politics.usa.misc', 'alt.politics.libertarian', 'alt.politics.clinton', 'alt.politics.bush', 'alt.politics.perot', 'alt.fan.rush-limbaugh']
+	 id: 0f8bdee0db176daa86c49c054a0736fb0f557356 labels: ['comp.graphics', 'comp.graphics.animation', 'comp.graphics.avs', 'comp.graphics.explorer']
+	 id: 94bf2b8beb71ee93a6b2123b506f7fe6cb0776fa labels: ['rec.autos']
+	 id: 4c4b28ea7fe6806dea6cc4c9293c354433017c5e labels: ['comp.graphics', 'comp.graphics.animation']
+	 id: ef1f62c98d5b50f5868e259c0b295381a1a98170 labels: ['sci.crypt', 'alt.security.pgp', 'alt.privacy', 'comp.org.eff.talk']
+
+Medoid id: 355574eed26f0c8e684a0a5a76131559d17c4ec5 label: ['comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+Cercanos:
+	 id: 16c008bace35ceae644b79d774967f1af06e1bce labels: ['comp.os.ms-windows.apps', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+	 id: 84147e95fdb5b2c727e78d2bc6b76240f75c0784 labels: ['alt.fan.bill-gates', 'comp.os.ms-windows.advocacy', 'comp.os.ms-windows.misc']
+	 id: ee31714bb0bdd8aa583977ea20496c1f841b89b4 labels: ['comp.os.ms-windows.misc']
+	 id: 67449d467b0e2579fc5d19b31f3297e80cf87265 labels: ['comp.os.ms-windows.misc']
+	 id: 73449a124d754e6f0d6c2392c89b664551d2c2dc labels: ['comp.windows.x']
+
+Medoid id: cf0fdc96104096aa45ce2c3ac1d9ed274290fd7f label: ['sci.electronics']
+Cercanos:
+	 id: 169617b702dffe201c44fa2beed1787d192a7d58 labels: ['misc.forsale']
+	 id: 157d1abf1da3d49622c8d1370416f2eb98581ca5 labels: ['talk.politics.mideast']
+	 id: 2f5b24f5d6368fb423d7e22682c7ef00986e0ed5 labels: ['comp.sys.ibm.pc.hardware']
+	 id: de5b88544cae76ac9974a1ef9f6991b111871ec8 labels: ['sci.crypt']
+	 id: 73001832ed876fa2d6cea2614f72237b20543999 labels: ['sci.electronics']
+
+Medoid id: d3a739234b083f5cc3ca874e3d0422649c7da74e label: ['soc.religion.christian']
+Cercanos:
+	 id: a2b23f652a27debefe2ae651876b20f112cc0071 labels: ['soc.religion.christian']
+	 id: 56243c8fc183e1e73d3650759f8d37d830fd284e labels: ['soc.religion.christian']
+	 id: 7d06f63e45ae635269659ea553b5ec621a9856e0 labels: ['soc.religion.christian']
+	 id: 97dcca5828a8f2f522391f0b8290e37fe42a2178 labels: ['soc.religion.christian']
+	 id: ee4f138167b8c54d304b8ead826b17ae5a4cae9d labels: ['soc.religion.christian']
+
+Medoid id: cab1a055f80a33734b3f9403b7e54bafdf3f0d25 label: ['talk.politics.misc', 'alt.sex']
+Cercanos:
+	 id: 97dcca5828a8f2f522391f0b8290e37fe42a2178 labels: ['soc.religion.christian']
+	 id: ee4f138167b8c54d304b8ead826b17ae5a4cae9d labels: ['soc.religion.christian']
+	 id: a2b23f652a27debefe2ae651876b20f112cc0071 labels: ['soc.religion.christian']
+	 id: fb7ef7e76baff5e5bf4d52a05c86fa32a8a17377 labels: ['soc.religion.christian']
+	 id: 2eedc4c74e5fdd6e0681ab5b6c6296c930ff1749 labels: ['soc.religion.christian']
+
+Medoid id: 4ef849e0c407a709691a1b3c1bb580194ffad2fe label: ['rec.motorcycles']
+Cercanos:
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: 169617b702dffe201c44fa2beed1787d192a7d58 labels: ['misc.forsale']
+	 id: 68d9caa887d4d05b108bd1d92e737052151b2fda labels: ['rec.sport.baseball']
+	 id: 4594e0e6b7710248298ec49b1e111c152ca65884 labels: ['misc.forsale']
+	 id: 05c40fd3009ca9d041bd1ee0436767051b16992a labels: ['misc.forsale']
+
+Medoid id: e3ab3b59ee9f86e6bc1363a006af9e6deeb9a286 label: ['comp.sys.ibm.pc.misc', 'comp.sys.ibm.pc.hardware']
+Cercanos:
+	 id: bb77bf904175df31b188ec8f0ff45d99bf3b819d labels: ['misc.forsale']
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: e4933120778b19c070c42743940fce7c135b542e labels: ['comp.sys.mac.hardware', 'comp.sys.mac.misc', 'comp.sys.mac.apps', 'comp.sys.mac.system']
+	 id: 366ae5fa9ba3d77de51dde2471cdc3b8355c8e76 labels: ['sci.med']
+	 id: c424be8290aa70bf842f63aaf538c7adeb6d3903 labels: ['sci.med']
+
+Medoid id: 4f83960672c33c678289e814415e5049f7ec9860 label: ['sci.crypt', 'alt.privacy.clipper']
+Cercanos:
+	 id: 7ba51eb8d8c20c861ce5cb6795666215a973d41f labels: ['sci.crypt']
+	 id: b56cb4e51dd1f58e4f7aa5e131b45589bdff1015 labels: ['sci.crypt', 'alt.privacy.clipper']
+	 id: ef1f62c98d5b50f5868e259c0b295381a1a98170 labels: ['sci.crypt', 'alt.security.pgp', 'alt.privacy', 'comp.org.eff.talk']
+	 id: 6c9a314071cbd9a48cbeddab4b1bdd01be01a98d labels: ['sci.space']
+	 id: ba174b3c7ec620d3176f692d98a97cffaa3168b9 labels: ['alt.atheism']
+
+Medoid id: 065b28859e714e4bd0f7945d5b976fa38e73fb76 label: ['comp.windows.x']
+Cercanos:
+	 id: 127bdc9b500a01a37fbd04cc6fb9c16537d2fc4d labels: ['comp.graphics']
+	 id: 9eb09426aa2f9ac648f68340e3dfc25236c81f91 labels: ['comp.windows.x']
+	 id: fc4d85a3dbea9f3d84b4adc9a604a20f6f241e24 labels: ['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+	 id: 0955dfc5fa176ff8e816d37459879ae12529b3ec labels: ['talk.politics.misc', 'alt.politics.usa.misc', 'alt.politics.libertarian', 'alt.politics.clinton', 'alt.politics.bush', 'alt.politics.perot', 'alt.fan.rush-limbaugh']
+	 id: ee31714bb0bdd8aa583977ea20496c1f841b89b4 labels: ['comp.os.ms-windows.misc']
+
+Medoid id: 9445fd74af22f1a31f054e02d76abcc9a003b6d6 label: ['talk.politics.guns', 'talk.politics.misc', 'alt.drugs', 'alt.conspiracy']
+Cercanos:
+	 id: 5038dd82c05029e55d08932198fa73e9623e9789 labels: ['sci.electronics']
+	 id: 67449d467b0e2579fc5d19b31f3297e80cf87265 labels: ['comp.os.ms-windows.misc']
+	 id: 0955dfc5fa176ff8e816d37459879ae12529b3ec labels: ['talk.politics.misc', 'alt.politics.usa.misc', 'alt.politics.libertarian', 'alt.politics.clinton', 'alt.politics.bush', 'alt.politics.perot', 'alt.fan.rush-limbaugh']
+	 id: 03b460548ee071decfc234132f73cee41602c795 labels: ['rec.autos', 'rec.autos.tech']
+	 id: f661d009212fef129ef0a121fa51c73f40a86e28 labels: ['talk.politics.guns']
+
+Medoid id: 6a55dc994e48fbd87f1db6c472515e4f238e597a label: ['sci.space']
+Cercanos:
+	 id: 79d74cd3af5a7d136a539be1c0c16e769f6e24b9 labels: ['comp.graphics']
+	 id: c39801929ec61cc04ff3ec0635ffb3d00f806250 labels: ['comp.os.ms-windows.misc']
+	 id: ce789beb1b5318cbf5ecbdae2500a9fa55d11733 labels: ['sci.space']
+	 id: 975fa1e76a504602033ac105cb952d278d0cd220 labels: ['sci.electronics']
+	 id: 137306304723a13c67c09cc0694b8d9e8724d00c labels: ['sci.space.shuttle', 'sci.space']
+
+Medoid id: 94b43a366571a3b44169927f547ba6d3b997508e label: ['rec.autos']
+Cercanos:
+	 id: ddccd7e49eccfcac313c0ae98af2562bee526d28 labels: ['talk.politics.mideast']
+	 id: c43a3ceac1aa615adc1af456d15e8b1596f68d20 labels: ['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+	 id: 00bd9c9534b4d3e46b0a247089e350df619c92c9 labels: ['soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish']
+	 id: 55a5468b60d7b3afd0eee49e3bd42912578b41b4 labels: ['rec.autos']
+	 id: f091e389919a78a0c04edc77bdd6cafc5bebc3ce labels: ['rec.autos', 'rec.autos.tech', 'rec.autos.sport', 'rec.autos.driving', 'rec.autos.vw', 'alt.autos.antique', 'news.answers']
+
+Medoid id: aa288ffb1e86c561ef53bf65e78d7e88f247734c label: ['talk.politics.guns']
+Cercanos:
+	 id: 92adb33dd9ac8f913ec9017bacd0b3313de806c3 labels: ['talk.politics.guns', 'alt.fan.rush-limbaugh']
+	 id: 7bf91a1bb44add03871c365a00303a110fe57b40 labels: ['sci.image.processing', 'alt.graphics.pixutils', 'comp.graphics']
+	 id: 342d72bb0098926d03d0be368e041b8a5587aa60 labels: ['alt.conspiracy', 'talk.politics.misc', 'talk.religion.misc']
+	 id: f2989f05fcfef773bbfebc834135b70ceb0a67df labels: ['talk.politics.guns']
+	 id: 8db2668617b7a5af329532aeb5f94cad12639437 labels: ['rec.sport.hockey']
+
+Medoid id: 746696fc12da427d14a40eedaefd0332364ddcff label: ['comp.graphics']
+Cercanos:
+	 id: 157d1abf1da3d49622c8d1370416f2eb98581ca5 labels: ['talk.politics.mideast']
+	 id: 4bc75adda4f50c2e9d235e35fec57f08543d0c53 labels: ['sci.electronics']
+	 id: 1f83a9240c1ebfb82378f3df908b9fe4b9fad708 labels: ['comp.os.msdos.programmer', 'alt.msdos.programmer', 'sci.electronics']
+	 id: 0f8bdee0db176daa86c49c054a0736fb0f557356 labels: ['comp.graphics', 'comp.graphics.animation', 'comp.graphics.avs', 'comp.graphics.explorer']
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+
+Medoid id: 72ab0d3dd3676e24dc0e1368355c42c9013d21d4 label: ['misc.forsale']
+Cercanos:
+	 id: 746696fc12da427d14a40eedaefd0332364ddcff labels: ['comp.graphics']
+	 id: 157d1abf1da3d49622c8d1370416f2eb98581ca5 labels: ['talk.politics.mideast']
+	 id: 58b8530fdc6e7805ca85ae94d0a73f696513c294 labels: ['comp.sys.mac.hardware']
+	 id: 615c62b07c46c17d16ed03313f95ca28087c1af7 labels: ['wpi.forsale', 'ne.forsale', 'us.forsale.computers', 'us.forsale.misc', 'misc.forsale', 'misc.forsale.computers.other', 'misc.forsale.computers.pc-clone']
+	 id: 48855f23e4a90d03ff85e62c533112e1b6421993 labels: ['misc.forsale']
+
+Medoid id: 6bebb0a105589f9eb0e3067e4df156fe72206379 label: ['comp.sys.ibm.pc.hardware']
+Cercanos:
+	 id: 92d2680fc2c098d71e6dd207dc84cfd313fee992 labels: ['comp.sys.ibm.pc.hardware']
+	 id: df98b7b32f4eca73b8e2b30cc60f97722c6e0c71 labels: ['comp.sys.ibm.pc.hardware']
+	 id: a04d2b42ea52915f01fb613842e9314a5ee5b0ae labels: ['comp.sys.ibm.pc.hardware']
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+
+Medoid id: c536c681f0d8d00c9558cf17908366295e989261 label: ['comp.graphics']
+Cercanos:
+	 id: 4c4b28ea7fe6806dea6cc4c9293c354433017c5e labels: ['comp.graphics', 'comp.graphics.animation']
+	 id: 0f8bdee0db176daa86c49c054a0736fb0f557356 labels: ['comp.graphics', 'comp.graphics.animation', 'comp.graphics.avs', 'comp.graphics.explorer']
+	 id: 746696fc12da427d14a40eedaefd0332364ddcff labels: ['comp.graphics']
+	 id: ebf6f6c0a210d201dfb909e985533e87b100662f labels: ['comp.graphics', 'comp.graphics.visualization']
+	 id: 22a95553eb15e01422ef9a3b2ba42f0f7dc32082 labels: ['comp.sys.mac.hardware']
+
+Medoid id: 627410592b32f9ff34e021a30ba61cdbaa4fbcf7 label: ['sci.space']
+Cercanos:
+	 id: 137306304723a13c67c09cc0694b8d9e8724d00c labels: ['sci.space.shuttle', 'sci.space']
+	 id: ce789beb1b5318cbf5ecbdae2500a9fa55d11733 labels: ['sci.space']
+	 id: 17d32428b866623193bac100a5369f5f05e9c34c labels: ['sci.space']
+	 id: 6439e880f811432545a50f8434229635769da9e2 labels: ['sci.space', 'sci.astro', 'alt.sci.planetary']
+	 id: b59568ce29cf32083825310b3b9a987d0b3f4110 labels: ['talk.politics.mideast']
+
+Medoid id: b86584e1611a70ac04b6ef63f2513bc0a40dab9e label: ['comp.windows.x']
+Cercanos:
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: f2989f05fcfef773bbfebc834135b70ceb0a67df labels: ['talk.politics.guns']
+	 id: a620887c6676b6a13d24e25a43e61806d403955c labels: ['misc.forsale']
+	 id: 169617b702dffe201c44fa2beed1787d192a7d58 labels: ['misc.forsale']
+	 id: f1766a605408304b7a66603fd1caaf8ab876eb36 labels: ['comp.graphics']
+
+Medoid id: 46e30c1c888ad1cb4b19a5f927e862cccf6a1880 label: ['talk.politics.mideast']
+Cercanos:
+	 id: 1aed40fd897f542ae8b9103f100747641edb41d3 labels: ['talk.politics.mideast']
+	 id: 8ff98b1835ae642c9e326655fbcbd628bcd71bb7 labels: ['talk.politics.mideast']
+	 id: fbefff3f9e75f68896fdf45b6fde6b03859a5e3f labels: ['talk.politics.mideast']
+	 id: 776bfe1775bd3a50a04fd06457ce058576b05731 labels: ['talk.politics.mideast']
+	 id: a504a9274abd685e421c5b04a639c084c2309f34 labels: ['talk.politics.mideast']
+
+Medoid id: 44419458dc8929c48a33bc9c89ba7bd6fc4c4161 label: ['rec.sport.hockey']
+Cercanos:
+	 id: b441767ca4251f847adc08694a9b3d867b275020 labels: ['rec.sport.hockey']
+	 id: 2f5b24f5d6368fb423d7e22682c7ef00986e0ed5 labels: ['comp.sys.ibm.pc.hardware']
+	 id: 299fb12b4eac2477a3abaa7f4451636c88b018ef labels: ['rec.sport.baseball']
+	 id: ecc54f5b966d1000f42ab957df19ec0876722f7f labels: ['rec.motorcycles']
+	 id: 0166bfe37ab3181137c207a29a82239bffbbde96 labels: ['rec.sport.hockey']
+
+Medoid id: aab409bbf3c9f998dcf417df84307ae175a35d84 label: ['sci.med']
+Cercanos:
+	 id: cc780afc0a02281bfef88b2f367a35b333b0a6a8 labels: ['sci.med']
+	 id: 127bdc9b500a01a37fbd04cc6fb9c16537d2fc4d labels: ['comp.graphics']
+	 id: d80ea4ec98cac6e10da7fcea9ea3fb596fe730e2 labels: ['rec.sport.hockey']
+	 id: 065b28859e714e4bd0f7945d5b976fa38e73fb76 labels: ['comp.windows.x']
+	 id: 9eb09426aa2f9ac648f68340e3dfc25236c81f91 labels: ['comp.windows.x']
+
+Medoid id: 9a8622337c3256a678ded8b05fe71b4142c9e91b label: ['comp.sys.mac.hardware']
+Cercanos:
+	 id: 6dca76bf6683103b62d2dbea05b05d56558d53dd labels: ['rec.sport.hockey']
+	 id: 5d78e781ffeb4046d29dae2f85b6d3ba5efa8dbc labels: ['talk.religion.misc']
+	 id: db573d9cd1949a4a53ef759ea8e2e4b596e01c70 labels: ['alt.atheism', 'talk.bizarre']
+	 id: e4933120778b19c070c42743940fce7c135b542e labels: ['comp.sys.mac.hardware', 'comp.sys.mac.misc', 'comp.sys.mac.apps', 'comp.sys.mac.system']
+	 id: a04d2b42ea52915f01fb613842e9314a5ee5b0ae labels: ['comp.sys.ibm.pc.hardware']
+
+Medoid id: d80ea4ec98cac6e10da7fcea9ea3fb596fe730e2 label: ['rec.sport.hockey']
+Cercanos:
+	 id: 513c485118a402c1ec5e77e0aab9bfff31a6471a labels: ['fl.forsale', 'misc.forsale', 'rec.arts.comics.marketplace', 'rec.collecting']
+	 id: d1bc8f2598290995c294fb881b81214765c18daa labels: ['comp.sys.mac.hardware']
+	 id: 0166bfe37ab3181137c207a29a82239bffbbde96 labels: ['rec.sport.hockey']
+	 id: aab409bbf3c9f998dcf417df84307ae175a35d84 labels: ['sci.med']
+	 id: f1766a605408304b7a66603fd1caaf8ab876eb36 labels: ['comp.graphics']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: d7e440f01c9c70099368dfb67d8a270fe0c8e4ef label: ['soc.religion.christian']
+Cercanos:
+	 id: 7d06f63e45ae635269659ea553b5ec621a9856e0 labels: ['soc.religion.christian']
+	 id: 2eedc4c74e5fdd6e0681ab5b6c6296c930ff1749 labels: ['soc.religion.christian']
+	 id: e78e9f054ec2a7a3271902ace2bba6fa5e5dd93e labels: ['soc.rights.human', 'soc.culture.soviet', 'soc.culture.turkish', 'talk.politics.mideast', 'talk.politics.soviet']
+	 id: 56243c8fc183e1e73d3650759f8d37d830fd284e labels: ['soc.religion.christian']
+	 id: 533c2b6fc4af3cb3d7c9ad61b946293bc9575b9a labels: ['talk.politics.misc']
+
+Medoid id: 8804c99dc43c6b2bd5fba9c6f8741642878a85b2 label: ['sci.space']
+Cercanos:
+	 id: 137306304723a13c67c09cc0694b8d9e8724d00c labels: ['sci.space.shuttle', 'sci.space']
+	 id: e7fed287de899950e3172dd0e75a5faddfa8a605 labels: ['comp.graphics']
+	 id: ce789beb1b5318cbf5ecbdae2500a9fa55d11733 labels: ['sci.space']
+	 id: 34b4399b4b887d7811d91ac0006b665e2b4a8633 labels: ['comp.windows.x']
+	 id: 513c485118a402c1ec5e77e0aab9bfff31a6471a labels: ['fl.forsale', 'misc.forsale', 'rec.arts.comics.marketplace', 'rec.collecting']
+
+Medoid id: ba174b3c7ec620d3176f692d98a97cffaa3168b9 label: ['alt.atheism']
+Cercanos:
+	 id: 6c8b9b4589ffd5389cca5d4e15a4f425f6520c4d labels: ['rec.sport.hockey']
+	 id: 79d74cd3af5a7d136a539be1c0c16e769f6e24b9 labels: ['comp.graphics']
+	 id: 8db10342e1b4ea5c58deff65fb2d9ec0a2a88af1 labels: ['alt.atheism']
+	 id: 4f83960672c33c678289e814415e5049f7ec9860 labels: ['sci.crypt', 'alt.privacy.clipper']
+	 id: c39801929ec61cc04ff3ec0635ffb3d00f806250 labels: ['comp.os.ms-windows.misc']
+
+Medoid id: 96be7c6a3e71b2cee1b13913f7c6e015d39c06c6 label: ['comp.graphics']
+Cercanos:
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: 169617b702dffe201c44fa2beed1787d192a7d58 labels: ['misc.forsale']
+	 id: 72ab0d3dd3676e24dc0e1368355c42c9013d21d4 labels: ['misc.forsale']
+	 id: f116ac7ad154dd0adb4c5ef18acc470eda909759 labels: ['alt.atheism']
+	 id: b86584e1611a70ac04b6ef63f2513bc0a40dab9e labels: ['comp.windows.x']
+
+Medoid id: 1af7fd6dc07c68a239b619fd95dc1174551c045e label: ['sci.crypt']
+Cercanos:
+	 id: 17d32428b866623193bac100a5369f5f05e9c34c labels: ['sci.space']
+	 id: e9e01d61e71fd7e7999333a9d2a90fcaaf92947e labels: ['comp.windows.x']
+	 id: 6439e880f811432545a50f8434229635769da9e2 labels: ['sci.space', 'sci.astro', 'alt.sci.planetary']
+	 id: bad23032945e8303ecdfd1eb75781a7616f22963 labels: ['misc.forsale']
+	 id: d6194c7188c7f36d7d706ec9510d167c1dddae60 labels: ['talk.politics.misc']
+
+Medoid id: 63a89dc1d61945a78a367207e1cc6ac645ab30f0 label: ['rec.autos']
+Cercanos:
+	 id: e5d1d9c649f179bcb9bd40881148032dadf5e1f5 labels: ['sci.med']
+	 id: 094060f621ae3b1d04c6a7139fa98b5b2b6b9056 labels: ['rec.autos']
+	 id: 4bc75adda4f50c2e9d235e35fec57f08543d0c53 labels: ['sci.electronics']
+	 id: 746696fc12da427d14a40eedaefd0332364ddcff labels: ['comp.graphics']
+	 id: ac6a3df74963ea71e6fbbdaa192b85a287834bf3 labels: ['rec.autos']
+
+Medoid id: 72f8393bc3dd55d142342f1eefab766c350ae284 label: ['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+Cercanos:
+	 id: c43a3ceac1aa615adc1af456d15e8b1596f68d20 labels: ['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+	 id: 342d72bb0098926d03d0be368e041b8a5587aa60 labels: ['alt.conspiracy', 'talk.politics.misc', 'talk.religion.misc']
+	 id: 00bd9c9534b4d3e46b0a247089e350df619c92c9 labels: ['soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish']
+	 id: 4a2d60ef2932a196bd807a0ebcc44ad0c9da79f2 labels: ['soc.culture.arabic', 'soc.culture.bosna-herzgvna', 'soc.culture.indian', 'soc.culture.iranian', 'soc.culture.jewish', 'soc.culture.pakistan', 'soc.culture.turkish', 'soc.culture.afganistan', 'talk.politics.mideast', 'soc.culture.african', 'soc.culture.malaysia']
+	 id: 92adb33dd9ac8f913ec9017bacd0b3313de806c3 labels: ['talk.politics.guns', 'alt.fan.rush-limbaugh']
+
+Medoid id: e4933120778b19c070c42743940fce7c135b542e label: ['comp.sys.mac.hardware', 'comp.sys.mac.misc', 'comp.sys.mac.apps', 'comp.sys.mac.system']
+Cercanos:
+	 id: e3ab3b59ee9f86e6bc1363a006af9e6deeb9a286 labels: ['comp.sys.ibm.pc.misc', 'comp.sys.ibm.pc.hardware']
+	 id: 22a95553eb15e01422ef9a3b2ba42f0f7dc32082 labels: ['comp.sys.mac.hardware']
+	 id: 9a8622337c3256a678ded8b05fe71b4142c9e91b labels: ['comp.sys.mac.hardware']
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: f95d10b73e19a84148c5b1e8c6e89836b23ec4af labels: ['comp.sys.mac.hardware']
+
+Medoid id: e78e9f054ec2a7a3271902ace2bba6fa5e5dd93e label: ['soc.rights.human', 'soc.culture.soviet', 'soc.culture.turkish', 'talk.politics.mideast', 'talk.politics.soviet']
+Cercanos:
+	 id: d7e440f01c9c70099368dfb67d8a270fe0c8e4ef labels: ['soc.religion.christian']
+	 id: a089a8313424e3c34be75f4ea92a7c1cd8fb3299 labels: ['talk.politics.mideast', 'talk.politics.soviet', 'soc.culture.greek', 'soc.history', 'soc.culture.soviet', 'soc.culture.turkish', 'soc.rights.human']
+	 id: b56cb4e51dd1f58e4f7aa5e131b45589bdff1015 labels: ['sci.crypt', 'alt.privacy.clipper']
+	 id: 127bdc9b500a01a37fbd04cc6fb9c16537d2fc4d labels: ['comp.graphics']
+	 id: 92adb33dd9ac8f913ec9017bacd0b3313de806c3 labels: ['talk.politics.guns', 'alt.fan.rush-limbaugh']
+
+Medoid id: 1aed40fd897f542ae8b9103f100747641edb41d3 label: ['talk.politics.mideast']
+Cercanos:
+	 id: 46e30c1c888ad1cb4b19a5f927e862cccf6a1880 labels: ['talk.politics.mideast']
+	 id: a504a9274abd685e421c5b04a639c084c2309f34 labels: ['talk.politics.mideast']
+	 id: 8ff98b1835ae642c9e326655fbcbd628bcd71bb7 labels: ['talk.politics.mideast']
+	 id: fbefff3f9e75f68896fdf45b6fde6b03859a5e3f labels: ['talk.politics.mideast']
+	 id: 776bfe1775bd3a50a04fd06457ce058576b05731 labels: ['talk.politics.mideast']
+
+Medoid id: 068ed3d977a584ae16d3fd8cee10741f2b4ace07 label: ['talk.politics.guns']
+Cercanos:
+	 id: 30bd92b69f11f13d760aea94fcc80a9a8161ef44 labels: ['misc.forsale']
+	 id: b2cc5244e08d8f2e18fee61e491d29f2a3aa05f2 labels: ['alt.atheism']
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: 00bd9c9534b4d3e46b0a247089e350df619c92c9 labels: ['soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish']
+	 id: c43a3ceac1aa615adc1af456d15e8b1596f68d20 labels: ['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+
+Medoid id: 169617b702dffe201c44fa2beed1787d192a7d58 label: ['misc.forsale']
+Cercanos:
+	 id: 4ef849e0c407a709691a1b3c1bb580194ffad2fe labels: ['rec.motorcycles']
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: cf0fdc96104096aa45ce2c3ac1d9ed274290fd7f labels: ['sci.electronics']
+	 id: 615c62b07c46c17d16ed03313f95ca28087c1af7 labels: ['wpi.forsale', 'ne.forsale', 'us.forsale.computers', 'us.forsale.misc', 'misc.forsale', 'misc.forsale.computers.other', 'misc.forsale.computers.pc-clone']
+	 id: 68d9caa887d4d05b108bd1d92e737052151b2fda labels: ['rec.sport.baseball']
+
+Medoid id: ef1f62c98d5b50f5868e259c0b295381a1a98170 label: ['sci.crypt', 'alt.security.pgp', 'alt.privacy', 'comp.org.eff.talk']
+Cercanos:
+	 id: 73409de5851ff5fe8b6ffd66cce6335929398428 labels: ['alt.security', 'comp.org.eff.talk', 'comp.security.misc', 'comp.org.acm', 'comp.org.ieee', 'sci.crypt']
+	 id: 4f83960672c33c678289e814415e5049f7ec9860 labels: ['sci.crypt', 'alt.privacy.clipper']
+	 id: 50fd875053545d333608f0156e6a4e26e4f58966 labels: ['sci.space']
+	 id: a9d44f409d220687c118f91f126794d342e021a9 labels: ['sci.energy', 'sci.image.processing', 'sci.anthropology', 'alt.sci.physics.new-theories', 'sci.skeptic', 'sci.med', 'alt.alien.visitors']
+	 id: 2ae421c88e8c5ddc42880ad959371122b192be82 labels: ['sci.space']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: ebf6f6c0a210d201dfb909e985533e87b100662f label: ['comp.graphics', 'comp.graphics.visualization']
+Cercanos:
+	 id: 98be31218ff07d60d7ca2d46e5d7d51e686f714e labels: ['alt.atheism']
+	 id: 0f8bdee0db176daa86c49c054a0736fb0f557356 labels: ['comp.graphics', 'comp.graphics.animation', 'comp.graphics.avs', 'comp.graphics.explorer']
+	 id: 17d32428b866623193bac100a5369f5f05e9c34c labels: ['sci.space']
+	 id: 73449a124d754e6f0d6c2392c89b664551d2c2dc labels: ['comp.windows.x']
+	 id: 6439e880f811432545a50f8434229635769da9e2 labels: ['sci.space', 'sci.astro', 'alt.sci.planetary']
+
+Medoid id: 97dcca5828a8f2f522391f0b8290e37fe42a2178 label: ['soc.religion.christian']
+Cercanos:
+	 id: ee4f138167b8c54d304b8ead826b17ae5a4cae9d labels: ['soc.religion.christian']
+	 id: fb7ef7e76baff5e5bf4d52a05c86fa32a8a17377 labels: ['soc.religion.christian']
+	 id: a2b23f652a27debefe2ae651876b20f112cc0071 labels: ['soc.religion.christian']
+	 id: cab1a055f80a33734b3f9403b7e54bafdf3f0d25 labels: ['talk.politics.misc', 'alt.sex']
+	 id: 2eedc4c74e5fdd6e0681ab5b6c6296c930ff1749 labels: ['soc.religion.christian']
+
+Medoid id: 060bc7f577f8810edfd4e1d3b717732b870a83ef label: ['alt.atheism']
+Cercanos:
+	 id: db573d9cd1949a4a53ef759ea8e2e4b596e01c70 labels: ['alt.atheism', 'talk.bizarre']
+	 id: 4c4b28ea7fe6806dea6cc4c9293c354433017c5e labels: ['comp.graphics', 'comp.graphics.animation']
+	 id: 7f030ffecdd2e89d04eaeb06ab81ad2e43831be2 labels: ['rec.sport.baseball']
+	 id: b86584e1611a70ac04b6ef63f2513bc0a40dab9e labels: ['comp.windows.x']
+	 id: f95311d2213d69b488ead6ee6c24af68319afb4f labels: ['rec.motorcycles']
+
+Medoid id: 55a5468b60d7b3afd0eee49e3bd42912578b41b4 label: ['rec.autos']
+Cercanos:
+	 id: 137306304723a13c67c09cc0694b8d9e8724d00c labels: ['sci.space.shuttle', 'sci.space']
+	 id: 49ad72ea9a4fc619e16395f55a95c0f3b29f88f7 labels: ['rec.motorcycles']
+	 id: e796707cfd16373e6977c18a115f2bef73b3967c labels: ['sci.med']
+	 id: 94b43a366571a3b44169927f547ba6d3b997508e labels: ['rec.autos']
+	 id: 005c4621f6b591d25121f63f734d6150888618a4 labels: ['comp.graphics']
+
+Medoid id: 6ee46420ad15a855debf338e821c4965a82d3b7e label: ['sci.med']
+Cercanos:
+	 id: 342d72bb0098926d03d0be368e041b8a5587aa60 labels: ['alt.conspiracy', 'talk.politics.misc', 'talk.religion.misc']
+	 id: 8e2fd0ca253d9666c7624b76f7bbffbd36e1e98c labels: ['talk.politics.mideast']
+	 id: e5d1d9c649f179bcb9bd40881148032dadf5e1f5 labels: ['sci.med']
+	 id: b08a790d5b672c017289f5af7a3f8a05378216ca labels: ['sci.med']
+	 id: 6c8b9b4589ffd5389cca5d4e15a4f425f6520c4d labels: ['rec.sport.hockey']
+
+Medoid id: 137306304723a13c67c09cc0694b8d9e8724d00c label: ['sci.space.shuttle', 'sci.space']
+Cercanos:
+	 id: 627410592b32f9ff34e021a30ba61cdbaa4fbcf7 labels: ['sci.space']
+	 id: ce789beb1b5318cbf5ecbdae2500a9fa55d11733 labels: ['sci.space']
+	 id: a9d44f409d220687c118f91f126794d342e021a9 labels: ['sci.energy', 'sci.image.processing', 'sci.anthropology', 'alt.sci.physics.new-theories', 'sci.skeptic', 'sci.med', 'alt.alien.visitors']
+	 id: 6439e880f811432545a50f8434229635769da9e2 labels: ['sci.space', 'sci.astro', 'alt.sci.planetary']
+	 id: 2ae421c88e8c5ddc42880ad959371122b192be82 labels: ['sci.space']
+
+Medoid id: 342d72bb0098926d03d0be368e041b8a5587aa60 label: ['alt.conspiracy', 'talk.politics.misc', 'talk.religion.misc']
+Cercanos:
+	 id: 92adb33dd9ac8f913ec9017bacd0b3313de806c3 labels: ['talk.politics.guns', 'alt.fan.rush-limbaugh']
+	 id: 39721cfbaf591d6c53dfc519caa0477c1eb3d1b3 labels: ['sci.med']
+	 id: 6ee46420ad15a855debf338e821c4965a82d3b7e labels: ['sci.med']
+	 id: 72f8393bc3dd55d142342f1eefab766c350ae284 labels: ['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+	 id: 9445fd74af22f1a31f054e02d76abcc9a003b6d6 labels: ['talk.politics.guns', 'talk.politics.misc', 'alt.drugs', 'alt.conspiracy']
+
+Medoid id: 39721cfbaf591d6c53dfc519caa0477c1eb3d1b3 label: ['sci.med']
+Cercanos:
+	 id: 342d72bb0098926d03d0be368e041b8a5587aa60 labels: ['alt.conspiracy', 'talk.politics.misc', 'talk.religion.misc']
+	 id: 7ba51eb8d8c20c861ce5cb6795666215a973d41f labels: ['sci.crypt']
+	 id: 6dca76bf6683103b62d2dbea05b05d56558d53dd labels: ['rec.sport.hockey']
+	 id: abebf2075eae27122f4bae54c799cd6da7c75adf labels: ['sci.med']
+	 id: c536c681f0d8d00c9558cf17908366295e989261 labels: ['comp.graphics']
+
+Medoid id: f1766a605408304b7a66603fd1caaf8ab876eb36 label: ['comp.graphics']
+Cercanos:
+	 id: 094060f621ae3b1d04c6a7139fa98b5b2b6b9056 labels: ['rec.autos']
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: 4c4b28ea7fe6806dea6cc4c9293c354433017c5e labels: ['comp.graphics', 'comp.graphics.animation']
+	 id: 776bfe1775bd3a50a04fd06457ce058576b05731 labels: ['talk.politics.mideast']
+	 id: b11af9fd6a408ba16bb07a5478d6e2a88f2d3cef labels: ['rec.motorcycles']
+
+Medoid id: ec80b433c8db509236e851507ce0efdadc206063 label: ['sci.med']
+Cercanos:
+	 id: 7d306e0f68fed851af325db6fe88c34dd1507b75 labels: ['talk.politics.misc']
+	 id: bb77bf904175df31b188ec8f0ff45d99bf3b819d labels: ['misc.forsale']
+	 id: 740c2130cf95fbf92f40c67b5bf16d5929a51b79 labels: ['soc.religion.christian']
+	 id: b11af9fd6a408ba16bb07a5478d6e2a88f2d3cef labels: ['rec.motorcycles']
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+
+Medoid id: fb7ef7e76baff5e5bf4d52a05c86fa32a8a17377 label: ['soc.religion.christian']
+Cercanos:
+	 id: ee4f138167b8c54d304b8ead826b17ae5a4cae9d labels: ['soc.religion.christian']
+	 id: 97dcca5828a8f2f522391f0b8290e37fe42a2178 labels: ['soc.religion.christian']
+	 id: a2b23f652a27debefe2ae651876b20f112cc0071 labels: ['soc.religion.christian']
+	 id: 2eedc4c74e5fdd6e0681ab5b6c6296c930ff1749 labels: ['soc.religion.christian']
+	 id: 7d06f63e45ae635269659ea553b5ec621a9856e0 labels: ['soc.religion.christian']
+
+Medoid id: 34b4399b4b887d7811d91ac0006b665e2b4a8633 label: ['comp.windows.x']
+Cercanos:
+	 id: e7fed287de899950e3172dd0e75a5faddfa8a605 labels: ['comp.graphics']
+	 id: e86aa3849668d92a614195491ae2fb2e850f28aa labels: ['comp.windows.x']
+	 id: 781675dbaff85feee1f3b7b0d26ff8e7598e1b75 labels: ['comp.windows.x']
+	 id: 8804c99dc43c6b2bd5fba9c6f8741642878a85b2 labels: ['sci.space']
+	 id: ebf6f6c0a210d201dfb909e985533e87b100662f labels: ['comp.graphics', 'comp.graphics.visualization']
+
+Medoid id: 92d2680fc2c098d71e6dd207dc84cfd313fee992 label: ['comp.sys.ibm.pc.hardware']
+Cercanos:
+	 id: 6bebb0a105589f9eb0e3067e4df156fe72206379 labels: ['comp.sys.ibm.pc.hardware']
+	 id: df98b7b32f4eca73b8e2b30cc60f97722c6e0c71 labels: ['comp.sys.ibm.pc.hardware']
+	 id: 2f5b24f5d6368fb423d7e22682c7ef00986e0ed5 labels: ['comp.sys.ibm.pc.hardware']
+	 id: 44419458dc8929c48a33bc9c89ba7bd6fc4c4161 labels: ['rec.sport.hockey']
+	 id: 28b75038d052d089c6189e71752faf1d2106739c labels: ['misc.forsale']
+
+Medoid id: 0955dfc5fa176ff8e816d37459879ae12529b3ec label: ['talk.politics.misc', 'alt.politics.usa.misc', 'alt.politics.libertarian', 'alt.politics.clinton', 'alt.politics.bush', 'alt.politics.perot', 'alt.fan.rush-limbaugh']
+Cercanos:
+	 id: 206e6de85583eef5c7e9ce051bfc18828e778522 labels: ['rec.sport.baseball']
+	 id: 9445fd74af22f1a31f054e02d76abcc9a003b6d6 labels: ['talk.politics.guns', 'talk.politics.misc', 'alt.drugs', 'alt.conspiracy']
+	 id: f0c161882fa4c61a7fb841083a3ca9898763077d labels: ['alt.binaries.pictures.utilities', 'comp.graphics', 'alt.binaries.pictures.d', 'alt.binaries.pictures.erotica.d']
+	 id: cab1a055f80a33734b3f9403b7e54bafdf3f0d25 labels: ['talk.politics.misc', 'alt.sex']
+	 id: 127bdc9b500a01a37fbd04cc6fb9c16537d2fc4d labels: ['comp.graphics']
+
+Medoid id: 22a95553eb15e01422ef9a3b2ba42f0f7dc32082 label: ['comp.sys.mac.hardware']
+Cercanos:
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: e4933120778b19c070c42743940fce7c135b542e labels: ['comp.sys.mac.hardware', 'comp.sys.mac.misc', 'comp.sys.mac.apps', 'comp.sys.mac.system']
+	 id: a620887c6676b6a13d24e25a43e61806d403955c labels: ['misc.forsale']
+	 id: 8383212dcb66c43ec19e93280eb2932ceafa081b labels: ['comp.sys.mac.hardware']
+	 id: 746696fc12da427d14a40eedaefd0332364ddcff labels: ['comp.graphics']
+
+Medoid id: be8b55d512ddc07bb315f158a5c67556237feed6 label: ['rec.autos']
+Cercanos:
+	 id: 539834e798cb3c028a40e5364835e05e5150ce87 labels: ['rec.sport.baseball']
+	 id: f17b4c5fa4b3e5e9d23a9f4f038c169e8886372d labels: ['alt.atheism']
+	 id: d7cb72b2ffd88b8fbb3821f9eddc970f346a8850 labels: ['rec.sport.hockey']
+	 id: 4bc75adda4f50c2e9d235e35fec57f08543d0c53 labels: ['sci.electronics']
+	 id: 98be31218ff07d60d7ca2d46e5d7d51e686f714e labels: ['alt.atheism']
+
+Medoid id: 0a3bb68c1235d403f09fc27c665b2166e818c781 label: ['talk.politics.misc', 'misc.legal', 'alt.politics.libertarian']
+Cercanos:
+	 id: ee45021e94712cbe830bec88c9b90b7ca435c27b labels: ['rec.motorcycles']
+	 id: b2cc5244e08d8f2e18fee61e491d29f2a3aa05f2 labels: ['alt.atheism']
+	 id: 0955dfc5fa176ff8e816d37459879ae12529b3ec labels: ['talk.politics.misc', 'alt.politics.usa.misc', 'alt.politics.libertarian', 'alt.politics.clinton', 'alt.politics.bush', 'alt.politics.perot', 'alt.fan.rush-limbaugh']
+	 id: 342d72bb0098926d03d0be368e041b8a5587aa60 labels: ['alt.conspiracy', 'talk.politics.misc', 'talk.religion.misc']
+	 id: 51f32fb189fdf4de01ecbe3948e810df79416313 labels: ['talk.politics.misc', 'ca.politics', 'ba.politics', 'alt.sex', 'soc.men', 'misc.legal']
+
+Medoid id: df98b7b32f4eca73b8e2b30cc60f97722c6e0c71 label: ['comp.sys.ibm.pc.hardware']
+Cercanos:
+	 id: 6bebb0a105589f9eb0e3067e4df156fe72206379 labels: ['comp.sys.ibm.pc.hardware']
+	 id: 92d2680fc2c098d71e6dd207dc84cfd313fee992 labels: ['comp.sys.ibm.pc.hardware']
+	 id: c424be8290aa70bf842f63aaf538c7adeb6d3903 labels: ['sci.med']
+	 id: a04d2b42ea52915f01fb613842e9314a5ee5b0ae labels: ['comp.sys.ibm.pc.hardware']
+	 id: 006f147ca4b3c4ee4725e55fb49c0615d5584bd8 labels: ['comp.os.ms-windows.misc']
+
+Medoid id: 7d306e0f68fed851af325db6fe88c34dd1507b75 label: ['talk.politics.misc']
+Cercanos:
+	 id: ec80b433c8db509236e851507ce0efdadc206063 labels: ['sci.med']
+	 id: e9e01d61e71fd7e7999333a9d2a90fcaaf92947e labels: ['comp.windows.x']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 84147e95fdb5b2c727e78d2bc6b76240f75c0784 label: ['alt.fan.bill-gates', 'comp.os.ms-windows.advocacy', 'comp.os.ms-windows.misc']
+Cercanos:
+	 id: 16c008bace35ceae644b79d774967f1af06e1bce labels: ['comp.os.ms-windows.apps', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+	 id: 355574eed26f0c8e684a0a5a76131559d17c4ec5 labels: ['comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+	 id: a60d6b1ddf2226ff68746b401cb7ff2994bf361a labels: ['comp.os.ms-windows.misc']
+	 id: 1f83a9240c1ebfb82378f3df908b9fe4b9fad708 labels: ['comp.os.msdos.programmer', 'alt.msdos.programmer', 'sci.electronics']
+	 id: ee31714bb0bdd8aa583977ea20496c1f841b89b4 labels: ['comp.os.ms-windows.misc']
+
+Medoid id: 49ad72ea9a4fc619e16395f55a95c0f3b29f88f7 label: ['rec.motorcycles']
+Cercanos:
+	 id: 06334e42e3ce9dcfa263249bd970c8475f6355a0 labels: ['misc.forsale']
+	 id: 55a5468b60d7b3afd0eee49e3bd42912578b41b4 labels: ['rec.autos']
+	 id: 94bf2b8beb71ee93a6b2123b506f7fe6cb0776fa labels: ['rec.autos']
+	 id: 68d9caa887d4d05b108bd1d92e737052151b2fda labels: ['rec.sport.baseball']
+	 id: 169617b702dffe201c44fa2beed1787d192a7d58 labels: ['misc.forsale']
+
+Medoid id: e7fed287de899950e3172dd0e75a5faddfa8a605 label: ['comp.graphics']
+Cercanos:
+	 id: 50fd875053545d333608f0156e6a4e26e4f58966 labels: ['sci.space']
+	 id: e86aa3849668d92a614195491ae2fb2e850f28aa labels: ['comp.windows.x']
+	 id: 24dfbde668e27eee97128004f0c2c28400302c9c labels: ['comp.graphics']
+	 id: 34b4399b4b887d7811d91ac0006b665e2b4a8633 labels: ['comp.windows.x']
+	 id: 8804c99dc43c6b2bd5fba9c6f8741642878a85b2 labels: ['sci.space']
+
+Medoid id: 304047db49cffdcce3cba60ccfa7039accf61fdd label: ['alt.atheism']
+Cercanos:
+	 id: b59568ce29cf32083825310b3b9a987d0b3f4110 labels: ['talk.politics.mideast']
+	 id: d7e440f01c9c70099368dfb67d8a270fe0c8e4ef labels: ['soc.religion.christian']
+	 id: ba174b3c7ec620d3176f692d98a97cffaa3168b9 labels: ['alt.atheism']
+	 id: e7fed287de899950e3172dd0e75a5faddfa8a605 labels: ['comp.graphics']
+	 id: 00bd9c9534b4d3e46b0a247089e350df619c92c9 labels: ['soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish']
+
+Medoid id: b08a790d5b672c017289f5af7a3f8a05378216ca label: ['sci.med']
+Cercanos:
+	 id: 5038dd82c05029e55d08932198fa73e9623e9789 labels: ['sci.electronics']
+	 id: 9445fd74af22f1a31f054e02d76abcc9a003b6d6 labels: ['talk.politics.guns', 'talk.politics.misc', 'alt.drugs', 'alt.conspiracy']
+	 id: e5d1d9c649f179bcb9bd40881148032dadf5e1f5 labels: ['sci.med']
+	 id: c424be8290aa70bf842f63aaf538c7adeb6d3903 labels: ['sci.med']
+	 id: ce789beb1b5318cbf5ecbdae2500a9fa55d11733 labels: ['sci.space']
+
+Medoid id: fbefff3f9e75f68896fdf45b6fde6b03859a5e3f label: ['talk.politics.mideast']
+Cercanos:
+	 id: 46e30c1c888ad1cb4b19a5f927e862cccf6a1880 labels: ['talk.politics.mideast']
+	 id: 8ff98b1835ae642c9e326655fbcbd628bcd71bb7 labels: ['talk.politics.mideast']
+	 id: 1aed40fd897f542ae8b9103f100747641edb41d3 labels: ['talk.politics.mideast']
+	 id: 79d74cd3af5a7d136a539be1c0c16e769f6e24b9 labels: ['comp.graphics']
+	 id: a504a9274abd685e421c5b04a639c084c2309f34 labels: ['talk.politics.mideast']
+
+Medoid id: 0c25da3f78ffda76818becab5518c7ea90e3428b label: ['rec.sport.baseball']
+Cercanos:
+	 id: 7f030ffecdd2e89d04eaeb06ab81ad2e43831be2 labels: ['rec.sport.baseball']
+	 id: 740c2130cf95fbf92f40c67b5bf16d5929a51b79 labels: ['soc.religion.christian']
+	 id: 58b8530fdc6e7805ca85ae94d0a73f696513c294 labels: ['comp.sys.mac.hardware']
+	 id: d7e440f01c9c70099368dfb67d8a270fe0c8e4ef labels: ['soc.religion.christian']
+	 id: 68d9caa887d4d05b108bd1d92e737052151b2fda labels: ['rec.sport.baseball']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 500d789663c15768138c83b3aa55d1892fbb439b label: ['talk.politics.mideast']
+Cercanos:
+	 id: 73409de5851ff5fe8b6ffd66cce6335929398428 labels: ['alt.security', 'comp.org.eff.talk', 'comp.security.misc', 'comp.org.acm', 'comp.org.ieee', 'sci.crypt']
+	 id: a504a9274abd685e421c5b04a639c084c2309f34 labels: ['talk.politics.mideast']
+	 id: 776bfe1775bd3a50a04fd06457ce058576b05731 labels: ['talk.politics.mideast']
+	 id: ef1f62c98d5b50f5868e259c0b295381a1a98170 labels: ['sci.crypt', 'alt.security.pgp', 'alt.privacy', 'comp.org.eff.talk']
+	 id: 46e30c1c888ad1cb4b19a5f927e862cccf6a1880 labels: ['talk.politics.mideast']
+
+Medoid id: 1f36230ca84052421d0c1545d8c7357b44d20970 label: ['rec.sport.hockey']
+Cercanos:
+	 id: 58b8530fdc6e7805ca85ae94d0a73f696513c294 labels: ['comp.sys.mac.hardware']
+	 id: 68d9caa887d4d05b108bd1d92e737052151b2fda labels: ['rec.sport.baseball']
+	 id: a2b23f652a27debefe2ae651876b20f112cc0071 labels: ['soc.religion.christian']
+	 id: d7cb72b2ffd88b8fbb3821f9eddc970f346a8850 labels: ['rec.sport.hockey']
+	 id: 0166bfe37ab3181137c207a29a82239bffbbde96 labels: ['rec.sport.hockey']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: ee45021e94712cbe830bec88c9b90b7ca435c27b label: ['rec.motorcycles']
+Cercanos:
+	 id: 0a3bb68c1235d403f09fc27c665b2166e818c781 labels: ['talk.politics.misc', 'misc.legal', 'alt.politics.libertarian']
+	 id: de5b88544cae76ac9974a1ef9f6991b111871ec8 labels: ['sci.crypt']
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: 936be707704446f6b312bd96d3d299d73379c90b labels: ['rec.motorcycles']
+
+Medoid id: 2ae421c88e8c5ddc42880ad959371122b192be82 label: ['sci.space']
+Cercanos:
+	 id: 58b8530fdc6e7805ca85ae94d0a73f696513c294 labels: ['comp.sys.mac.hardware']
+	 id: 137306304723a13c67c09cc0694b8d9e8724d00c labels: ['sci.space.shuttle', 'sci.space']
+	 id: 14e3fa5d2d6f5398b307735a3a39d53424e15cec labels: ['misc.forsale']
+	 id: ef1f62c98d5b50f5868e259c0b295381a1a98170 labels: ['sci.crypt', 'alt.security.pgp', 'alt.privacy', 'comp.org.eff.talk']
+	 id: 4f83960672c33c678289e814415e5049f7ec9860 labels: ['sci.crypt', 'alt.privacy.clipper']
+
+Medoid id: 73449a124d754e6f0d6c2392c89b664551d2c2dc label: ['comp.windows.x']
+Cercanos:
+	 id: 4594e0e6b7710248298ec49b1e111c152ca65884 labels: ['misc.forsale']
+	 id: 16c008bace35ceae644b79d774967f1af06e1bce labels: ['comp.os.ms-windows.apps', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+	 id: 355574eed26f0c8e684a0a5a76131559d17c4ec5 labels: ['comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+	 id: ebf6f6c0a210d201dfb909e985533e87b100662f labels: ['comp.graphics', 'comp.graphics.visualization']
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+
+Medoid id: 529119e6b7a113ad88857371d603709d3a7a245a label: ['sci.med']
+Cercanos:
+	 id: 366ae5fa9ba3d77de51dde2471cdc3b8355c8e76 labels: ['sci.med']
+	 id: 4c4b28ea7fe6806dea6cc4c9293c354433017c5e labels: ['comp.graphics', 'comp.graphics.animation']
+	 id: 5038dd82c05029e55d08932198fa73e9623e9789 labels: ['sci.electronics']
+	 id: 1a078caccd6b589838401aecac044f597bb2341a labels: ['alt.atheism']
+	 id: 9445fd74af22f1a31f054e02d76abcc9a003b6d6 labels: ['talk.politics.guns', 'talk.politics.misc', 'alt.drugs', 'alt.conspiracy']
+
+Medoid id: 4bc75adda4f50c2e9d235e35fec57f08543d0c53 label: ['sci.electronics']
+Cercanos:
+	 id: 746696fc12da427d14a40eedaefd0332364ddcff labels: ['comp.graphics']
+	 id: 1d00b4ff7757ea9d870b5b5856bcf5cc1bc77075 labels: ['rec.motorcycles']
+	 id: 63a89dc1d61945a78a367207e1cc6ac645ab30f0 labels: ['rec.autos']
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: be8b55d512ddc07bb315f158a5c67556237feed6 labels: ['rec.autos']
+
+Medoid id: 67449d467b0e2579fc5d19b31f3297e80cf87265 label: ['comp.os.ms-windows.misc']
+Cercanos:
+	 id: 5038dd82c05029e55d08932198fa73e9623e9789 labels: ['sci.electronics']
+	 id: 355574eed26f0c8e684a0a5a76131559d17c4ec5 labels: ['comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+	 id: 9445fd74af22f1a31f054e02d76abcc9a003b6d6 labels: ['talk.politics.guns', 'talk.politics.misc', 'alt.drugs', 'alt.conspiracy']
+	 id: 16c008bace35ceae644b79d774967f1af06e1bce labels: ['comp.os.ms-windows.apps', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+	 id: d1bc8f2598290995c294fb881b81214765c18daa labels: ['comp.sys.mac.hardware']
+
+Medoid id: b56cb4e51dd1f58e4f7aa5e131b45589bdff1015 label: ['sci.crypt', 'alt.privacy.clipper']
+Cercanos:
+	 id: 8096eecd5215a6dcb54343143c9c4266a168d99f labels: ['sci.crypt', 'sci.answers', 'news.answers']
+	 id: 4f83960672c33c678289e814415e5049f7ec9860 labels: ['sci.crypt', 'alt.privacy.clipper']
+	 id: 7ba51eb8d8c20c861ce5cb6795666215a973d41f labels: ['sci.crypt']
+	 id: e78e9f054ec2a7a3271902ace2bba6fa5e5dd93e labels: ['soc.rights.human', 'soc.culture.soviet', 'soc.culture.turkish', 'talk.politics.mideast', 'talk.politics.soviet']
+	 id: 56243c8fc183e1e73d3650759f8d37d830fd284e labels: ['soc.religion.christian']
+
+Medoid id: f95311d2213d69b488ead6ee6c24af68319afb4f label: ['rec.motorcycles']
+Cercanos:
+	 id: f95d10b73e19a84148c5b1e8c6e89836b23ec4af labels: ['comp.sys.mac.hardware']
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: 060bc7f577f8810edfd4e1d3b717732b870a83ef labels: ['alt.atheism']
+	 id: b28ce58479196dffc1d3018849fd8b074e90c02d labels: ['rec.motorcycles']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 label: ['rec.motorcycles']
+Cercanos:
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: 006f147ca4b3c4ee4725e55fb49c0615d5584bd8 labels: ['comp.os.ms-windows.misc']
+	 id: 936be707704446f6b312bd96d3d299d73379c90b labels: ['rec.motorcycles']
+	 id: 513c485118a402c1ec5e77e0aab9bfff31a6471a labels: ['fl.forsale', 'misc.forsale', 'rec.arts.comics.marketplace', 'rec.collecting']
+	 id: ef70208855a09d1c43aa660341241e688f89ef7f labels: ['rec.sport.hockey']
+
+Medoid id: 1b9bd09d7e0a7649bb0118aa2c3458df96632cb0 label: ['sci.med']
+Cercanos:
+	 id: 3729a11d12183cf92caedd20d86f99fc596b3adc labels: ['rec.autos']
+	 id: efdcff152d3114d7343ad6907faebf3033114628 labels: ['misc.consumers', 'sci.med', 'rec.food.cooking', 'sci.environment']
+	 id: 1a078caccd6b589838401aecac044f597bb2341a labels: ['alt.atheism']
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+
+Medoid id: 9cc54e7d2d980ad4e2e74e8f037cce925b031020 label: ['talk.politics.guns']
+Cercanos:
+	 id: c43a3ceac1aa615adc1af456d15e8b1596f68d20 labels: ['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+	 id: 6a55dc994e48fbd87f1db6c472515e4f238e597a labels: ['sci.space']
+	 id: 72ab0d3dd3676e24dc0e1368355c42c9013d21d4 labels: ['misc.forsale']
+	 id: ce789beb1b5318cbf5ecbdae2500a9fa55d11733 labels: ['sci.space']
+	 id: 6c8b9b4589ffd5389cca5d4e15a4f425f6520c4d labels: ['rec.sport.hockey']
+
+Medoid id: 79d74cd3af5a7d136a539be1c0c16e769f6e24b9 label: ['comp.graphics']
+Cercanos:
+	 id: c39801929ec61cc04ff3ec0635ffb3d00f806250 labels: ['comp.os.ms-windows.misc']
+	 id: 6a55dc994e48fbd87f1db6c472515e4f238e597a labels: ['sci.space']
+	 id: fbefff3f9e75f68896fdf45b6fde6b03859a5e3f labels: ['talk.politics.mideast']
+	 id: ba174b3c7ec620d3176f692d98a97cffaa3168b9 labels: ['alt.atheism']
+	 id: e796707cfd16373e6977c18a115f2bef73b3967c labels: ['sci.med']
+
+Medoid id: a749dee518d288fb2e766edc0fe1b0f221479319 label: ['talk.politics.mideast', 'soc.culture.arabic']
+Cercanos:
+	 id: 4a2d60ef2932a196bd807a0ebcc44ad0c9da79f2 labels: ['soc.culture.arabic', 'soc.culture.bosna-herzgvna', 'soc.culture.indian', 'soc.culture.iranian', 'soc.culture.jewish', 'soc.culture.pakistan', 'soc.culture.turkish', 'soc.culture.afganistan', 'talk.politics.mideast', 'soc.culture.african', 'soc.culture.malaysia']
+	 id: 2f5b24f5d6368fb423d7e22682c7ef00986e0ed5 labels: ['comp.sys.ibm.pc.hardware']
+	 id: a089a8313424e3c34be75f4ea92a7c1cd8fb3299 labels: ['talk.politics.mideast', 'talk.politics.soviet', 'soc.culture.greek', 'soc.history', 'soc.culture.soviet', 'soc.culture.turkish', 'soc.rights.human']
+	 id: 00bd9c9534b4d3e46b0a247089e350df619c92c9 labels: ['soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish']
+	 id: 44419458dc8929c48a33bc9c89ba7bd6fc4c4161 labels: ['rec.sport.hockey']
+
+Medoid id: e796707cfd16373e6977c18a115f2bef73b3967c label: ['sci.med']
+Cercanos:
+	 id: 5038dd82c05029e55d08932198fa73e9623e9789 labels: ['sci.electronics']
+	 id: 55a5468b60d7b3afd0eee49e3bd42912578b41b4 labels: ['rec.autos']
+	 id: 06334e42e3ce9dcfa263249bd970c8475f6355a0 labels: ['misc.forsale']
+	 id: 7f030ffecdd2e89d04eaeb06ab81ad2e43831be2 labels: ['rec.sport.baseball']
+	 id: 94bf2b8beb71ee93a6b2123b506f7fe6cb0776fa labels: ['rec.autos']
+
+Medoid id: 533c2b6fc4af3cb3d7c9ad61b946293bc9575b9a label: ['talk.politics.misc']
+Cercanos:
+	 id: f116ac7ad154dd0adb4c5ef18acc470eda909759 labels: ['alt.atheism']
+	 id: d7e440f01c9c70099368dfb67d8a270fe0c8e4ef labels: ['soc.religion.christian']
+	 id: 30bd92b69f11f13d760aea94fcc80a9a8161ef44 labels: ['misc.forsale']
+	 id: 06334e42e3ce9dcfa263249bd970c8475f6355a0 labels: ['misc.forsale']
+	 id: 068ed3d977a584ae16d3fd8cee10741f2b4ace07 labels: ['talk.politics.guns']
+
+Medoid id: 56243c8fc183e1e73d3650759f8d37d830fd284e label: ['soc.religion.christian']
+Cercanos:
+	 id: 7d06f63e45ae635269659ea553b5ec621a9856e0 labels: ['soc.religion.christian']
+	 id: d3a739234b083f5cc3ca874e3d0422649c7da74e labels: ['soc.religion.christian']
+	 id: 04f657ab1c586aad3bfdcf630791050fd3772313 labels: ['soc.religion.christian']
+	 id: 2eedc4c74e5fdd6e0681ab5b6c6296c930ff1749 labels: ['soc.religion.christian']
+	 id: 740c2130cf95fbf92f40c67b5bf16d5929a51b79 labels: ['soc.religion.christian']
+
+Medoid id: abebf2075eae27122f4bae54c799cd6da7c75adf label: ['sci.med']
+Cercanos:
+	 id: ddccd7e49eccfcac313c0ae98af2562bee526d28 labels: ['talk.politics.mideast']
+	 id: 975fa1e76a504602033ac105cb952d278d0cd220 labels: ['sci.electronics']
+	 id: 39721cfbaf591d6c53dfc519caa0477c1eb3d1b3 labels: ['sci.med']
+	 id: e9e01d61e71fd7e7999333a9d2a90fcaaf92947e labels: ['comp.windows.x']
+	 id: 8e2fd0ca253d9666c7624b76f7bbffbd36e1e98c labels: ['talk.politics.mideast']
+
+Medoid id: a620887c6676b6a13d24e25a43e61806d403955c label: ['misc.forsale']
+Cercanos:
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: 68d9caa887d4d05b108bd1d92e737052151b2fda labels: ['rec.sport.baseball']
+	 id: 615c62b07c46c17d16ed03313f95ca28087c1af7 labels: ['wpi.forsale', 'ne.forsale', 'us.forsale.computers', 'us.forsale.misc', 'misc.forsale', 'misc.forsale.computers.other', 'misc.forsale.computers.pc-clone']
+	 id: 22a95553eb15e01422ef9a3b2ba42f0f7dc32082 labels: ['comp.sys.mac.hardware']
+	 id: 06334e42e3ce9dcfa263249bd970c8475f6355a0 labels: ['misc.forsale']
+
+Medoid id: 50fd875053545d333608f0156e6a4e26e4f58966 label: ['sci.space']
+Cercanos:
+	 id: e7fed287de899950e3172dd0e75a5faddfa8a605 labels: ['comp.graphics']
+	 id: 24dfbde668e27eee97128004f0c2c28400302c9c labels: ['comp.graphics']
+	 id: e86aa3849668d92a614195491ae2fb2e850f28aa labels: ['comp.windows.x']
+	 id: 17d32428b866623193bac100a5369f5f05e9c34c labels: ['sci.space']
+	 id: ef1f62c98d5b50f5868e259c0b295381a1a98170 labels: ['sci.crypt', 'alt.security.pgp', 'alt.privacy', 'comp.org.eff.talk']
+
+Medoid id: 6c8b9b4589ffd5389cca5d4e15a4f425f6520c4d label: ['rec.sport.hockey']
+Cercanos:
+	 id: ba174b3c7ec620d3176f692d98a97cffaa3168b9 labels: ['alt.atheism']
+	 id: 4f83960672c33c678289e814415e5049f7ec9860 labels: ['sci.crypt', 'alt.privacy.clipper']
+	 id: 8db10342e1b4ea5c58deff65fb2d9ec0a2a88af1 labels: ['alt.atheism']
+	 id: 7bf91a1bb44add03871c365a00303a110fe57b40 labels: ['sci.image.processing', 'alt.graphics.pixutils', 'comp.graphics']
+	 id: 44419458dc8929c48a33bc9c89ba7bd6fc4c4161 labels: ['rec.sport.hockey']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: ef70208855a09d1c43aa660341241e688f89ef7f label: ['rec.sport.hockey']
+Cercanos:
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: 0166bfe37ab3181137c207a29a82239bffbbde96 labels: ['rec.sport.hockey']
+	 id: 68d9caa887d4d05b108bd1d92e737052151b2fda labels: ['rec.sport.baseball']
+	 id: 1f36230ca84052421d0c1545d8c7357b44d20970 labels: ['rec.sport.hockey']
+
+Medoid id: 05c40fd3009ca9d041bd1ee0436767051b16992a label: ['misc.forsale']
+Cercanos:
+	 id: e86aa3849668d92a614195491ae2fb2e850f28aa labels: ['comp.windows.x']
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: 169617b702dffe201c44fa2beed1787d192a7d58 labels: ['misc.forsale']
+	 id: 3729a11d12183cf92caedd20d86f99fc596b3adc labels: ['rec.autos']
+	 id: f1766a605408304b7a66603fd1caaf8ab876eb36 labels: ['comp.graphics']
+
+Medoid id: 740c2130cf95fbf92f40c67b5bf16d5929a51b79 label: ['soc.religion.christian']
+Cercanos:
+	 id: 56243c8fc183e1e73d3650759f8d37d830fd284e labels: ['soc.religion.christian']
+	 id: d3a739234b083f5cc3ca874e3d0422649c7da74e labels: ['soc.religion.christian']
+	 id: 7d06f63e45ae635269659ea553b5ec621a9856e0 labels: ['soc.religion.christian']
+	 id: 2eedc4c74e5fdd6e0681ab5b6c6296c930ff1749 labels: ['soc.religion.christian']
+	 id: a2b23f652a27debefe2ae651876b20f112cc0071 labels: ['soc.religion.christian']
+
+Medoid id: 006f147ca4b3c4ee4725e55fb49c0615d5584bd8 label: ['comp.os.ms-windows.misc']
+Cercanos:
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: df98b7b32f4eca73b8e2b30cc60f97722c6e0c71 labels: ['comp.sys.ibm.pc.hardware']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 03b460548ee071decfc234132f73cee41602c795 label: ['rec.autos', 'rec.autos.tech']
+Cercanos:
+	 id: f091e389919a78a0c04edc77bdd6cafc5bebc3ce labels: ['rec.autos', 'rec.autos.tech', 'rec.autos.sport', 'rec.autos.driving', 'rec.autos.vw', 'alt.autos.antique', 'news.answers']
+	 id: 5038dd82c05029e55d08932198fa73e9623e9789 labels: ['sci.electronics']
+	 id: 9445fd74af22f1a31f054e02d76abcc9a003b6d6 labels: ['talk.politics.guns', 'talk.politics.misc', 'alt.drugs', 'alt.conspiracy']
+	 id: 094060f621ae3b1d04c6a7139fa98b5b2b6b9056 labels: ['rec.autos']
+	 id: f1766a605408304b7a66603fd1caaf8ab876eb36 labels: ['comp.graphics']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 1b2a3a42e67408a3c92c5e49d6e34eaca2b06685 label: ['comp.os.ms-windows.misc']
+Cercanos:
+	 id: a04d2b42ea52915f01fb613842e9314a5ee5b0ae labels: ['comp.sys.ibm.pc.hardware']
+	 id: 16c008bace35ceae644b79d774967f1af06e1bce labels: ['comp.os.ms-windows.apps', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+	 id: 355574eed26f0c8e684a0a5a76131559d17c4ec5 labels: ['comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+	 id: f661d009212fef129ef0a121fa51c73f40a86e28 labels: ['talk.politics.guns']
+	 id: ebf6f6c0a210d201dfb909e985533e87b100662f labels: ['comp.graphics', 'comp.graphics.visualization']
+
+Medoid id: f116ac7ad154dd0adb4c5ef18acc470eda909759 label: ['alt.atheism']
+Cercanos:
+	 id: 533c2b6fc4af3cb3d7c9ad61b946293bc9575b9a labels: ['talk.politics.misc']
+	 id: 068ed3d977a584ae16d3fd8cee10741f2b4ace07 labels: ['talk.politics.guns']
+	 id: 30bd92b69f11f13d760aea94fcc80a9a8161ef44 labels: ['misc.forsale']
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: b2cc5244e08d8f2e18fee61e491d29f2a3aa05f2 labels: ['alt.atheism']
+
+Medoid id: 127bdc9b500a01a37fbd04cc6fb9c16537d2fc4d label: ['comp.graphics']
+Cercanos:
+	 id: 065b28859e714e4bd0f7945d5b976fa38e73fb76 labels: ['comp.windows.x']
+	 id: 9eb09426aa2f9ac648f68340e3dfc25236c81f91 labels: ['comp.windows.x']
+	 id: aab409bbf3c9f998dcf417df84307ae175a35d84 labels: ['sci.med']
+	 id: 0955dfc5fa176ff8e816d37459879ae12529b3ec labels: ['talk.politics.misc', 'alt.politics.usa.misc', 'alt.politics.libertarian', 'alt.politics.clinton', 'alt.politics.bush', 'alt.politics.perot', 'alt.fan.rush-limbaugh']
+	 id: fc4d85a3dbea9f3d84b4adc9a604a20f6f241e24 labels: ['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+
+Medoid id: 24dfbde668e27eee97128004f0c2c28400302c9c label: ['comp.graphics']
+Cercanos:
+	 id: 50fd875053545d333608f0156e6a4e26e4f58966 labels: ['sci.space']
+	 id: e7fed287de899950e3172dd0e75a5faddfa8a605 labels: ['comp.graphics']
+	 id: e86aa3849668d92a614195491ae2fb2e850f28aa labels: ['comp.windows.x']
+	 id: ef1f62c98d5b50f5868e259c0b295381a1a98170 labels: ['sci.crypt', 'alt.security.pgp', 'alt.privacy', 'comp.org.eff.talk']
+	 id: 79d74cd3af5a7d136a539be1c0c16e769f6e24b9 labels: ['comp.graphics']
+
+Medoid id: b441767ca4251f847adc08694a9b3d867b275020 label: ['rec.sport.hockey']
+Cercanos:
+	 id: 44419458dc8929c48a33bc9c89ba7bd6fc4c4161 labels: ['rec.sport.hockey']
+	 id: 299fb12b4eac2477a3abaa7f4451636c88b018ef labels: ['rec.sport.baseball']
+	 id: 0166bfe37ab3181137c207a29a82239bffbbde96 labels: ['rec.sport.hockey']
+	 id: b56cb4e51dd1f58e4f7aa5e131b45589bdff1015 labels: ['sci.crypt', 'alt.privacy.clipper']
+	 id: d7cb72b2ffd88b8fbb3821f9eddc970f346a8850 labels: ['rec.sport.hockey']
+
+Medoid id: b2cc5244e08d8f2e18fee61e491d29f2a3aa05f2 label: ['alt.atheism']
+Cercanos:
+	 id: 30bd92b69f11f13d760aea94fcc80a9a8161ef44 labels: ['misc.forsale']
+	 id: 068ed3d977a584ae16d3fd8cee10741f2b4ace07 labels: ['talk.politics.guns']
+	 id: 0a3bb68c1235d403f09fc27c665b2166e818c781 labels: ['talk.politics.misc', 'misc.legal', 'alt.politics.libertarian']
+	 id: 00bd9c9534b4d3e46b0a247089e350df619c92c9 labels: ['soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: c43a3ceac1aa615adc1af456d15e8b1596f68d20 label: ['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+Cercanos:
+	 id: 00bd9c9534b4d3e46b0a247089e350df619c92c9 labels: ['soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish']
+	 id: 4a2d60ef2932a196bd807a0ebcc44ad0c9da79f2 labels: ['soc.culture.arabic', 'soc.culture.bosna-herzgvna', 'soc.culture.indian', 'soc.culture.iranian', 'soc.culture.jewish', 'soc.culture.pakistan', 'soc.culture.turkish', 'soc.culture.afganistan', 'talk.politics.mideast', 'soc.culture.african', 'soc.culture.malaysia']
+	 id: 94b43a366571a3b44169927f547ba6d3b997508e labels: ['rec.autos']
+	 id: 72f8393bc3dd55d142342f1eefab766c350ae284 labels: ['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+	 id: 9cc54e7d2d980ad4e2e74e8f037cce925b031020 labels: ['talk.politics.guns']
+
+Medoid id: 6439e880f811432545a50f8434229635769da9e2 label: ['sci.space', 'sci.astro', 'alt.sci.planetary']
+Cercanos:
+	 id: 17d32428b866623193bac100a5369f5f05e9c34c labels: ['sci.space']
+	 id: 627410592b32f9ff34e021a30ba61cdbaa4fbcf7 labels: ['sci.space']
+	 id: 137306304723a13c67c09cc0694b8d9e8724d00c labels: ['sci.space.shuttle', 'sci.space']
+	 id: a9d44f409d220687c118f91f126794d342e021a9 labels: ['sci.energy', 'sci.image.processing', 'sci.anthropology', 'alt.sci.physics.new-theories', 'sci.skeptic', 'sci.med', 'alt.alien.visitors']
+	 id: 1af7fd6dc07c68a239b619fd95dc1174551c045e labels: ['sci.crypt']
+
+Medoid id: efdcff152d3114d7343ad6907faebf3033114628 label: ['misc.consumers', 'sci.med', 'rec.food.cooking', 'sci.environment']
+Cercanos:
+	 id: a9d44f409d220687c118f91f126794d342e021a9 labels: ['sci.energy', 'sci.image.processing', 'sci.anthropology', 'alt.sci.physics.new-theories', 'sci.skeptic', 'sci.med', 'alt.alien.visitors']
+	 id: 4d816b410400fba687b1f129c5dc7b10843b205e labels: ['sci.space']
+	 id: 68d9caa887d4d05b108bd1d92e737052151b2fda labels: ['rec.sport.baseball']
+	 id: 137306304723a13c67c09cc0694b8d9e8724d00c labels: ['sci.space.shuttle', 'sci.space']
+	 id: 1b9bd09d7e0a7649bb0118aa2c3458df96632cb0 labels: ['sci.med']
+
+Medoid id: a2b23f652a27debefe2ae651876b20f112cc0071 label: ['soc.religion.christian']
+Cercanos:
+	 id: 97dcca5828a8f2f522391f0b8290e37fe42a2178 labels: ['soc.religion.christian']
+	 id: ee4f138167b8c54d304b8ead826b17ae5a4cae9d labels: ['soc.religion.christian']
+	 id: fb7ef7e76baff5e5bf4d52a05c86fa32a8a17377 labels: ['soc.religion.christian']
+	 id: d3a739234b083f5cc3ca874e3d0422649c7da74e labels: ['soc.religion.christian']
+	 id: cab1a055f80a33734b3f9403b7e54bafdf3f0d25 labels: ['talk.politics.misc', 'alt.sex']
+
+Medoid id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 label: ['comp.sys.ibm.pc.hardware']
+Cercanos:
+	 id: 68d9caa887d4d05b108bd1d92e737052151b2fda labels: ['rec.sport.baseball']
+	 id: e3ab3b59ee9f86e6bc1363a006af9e6deeb9a286 labels: ['comp.sys.ibm.pc.misc', 'comp.sys.ibm.pc.hardware']
+	 id: a620887c6676b6a13d24e25a43e61806d403955c labels: ['misc.forsale']
+	 id: 22a95553eb15e01422ef9a3b2ba42f0f7dc32082 labels: ['comp.sys.mac.hardware']
+	 id: 4594e0e6b7710248298ec49b1e111c152ca65884 labels: ['misc.forsale']
+
+Medoid id: f17b4c5fa4b3e5e9d23a9f4f038c169e8886372d label: ['alt.atheism']
+Cercanos:
+	 id: be8b55d512ddc07bb315f158a5c67556237feed6 labels: ['rec.autos']
+	 id: 539834e798cb3c028a40e5364835e05e5150ce87 labels: ['rec.sport.baseball']
+	 id: e4933120778b19c070c42743940fce7c135b542e labels: ['comp.sys.mac.hardware', 'comp.sys.mac.misc', 'comp.sys.mac.apps', 'comp.sys.mac.system']
+	 id: f661d009212fef129ef0a121fa51c73f40a86e28 labels: ['talk.politics.guns']
+	 id: 56243c8fc183e1e73d3650759f8d37d830fd284e labels: ['soc.religion.christian']
+
+Medoid id: 7f030ffecdd2e89d04eaeb06ab81ad2e43831be2 label: ['rec.sport.baseball']
+Cercanos:
+	 id: 0c25da3f78ffda76818becab5518c7ea90e3428b labels: ['rec.sport.baseball']
+	 id: 5038dd82c05029e55d08932198fa73e9623e9789 labels: ['sci.electronics']
+	 id: b11af9fd6a408ba16bb07a5478d6e2a88f2d3cef labels: ['rec.motorcycles']
+	 id: 68d9caa887d4d05b108bd1d92e737052151b2fda labels: ['rec.sport.baseball']
+	 id: 060bc7f577f8810edfd4e1d3b717732b870a83ef labels: ['alt.atheism']
+
+Medoid id: 8db10342e1b4ea5c58deff65fb2d9ec0a2a88af1 label: ['alt.atheism']
+Cercanos:
+	 id: ba174b3c7ec620d3176f692d98a97cffaa3168b9 labels: ['alt.atheism']
+	 id: b2cc5244e08d8f2e18fee61e491d29f2a3aa05f2 labels: ['alt.atheism']
+	 id: 6c8b9b4589ffd5389cca5d4e15a4f425f6520c4d labels: ['rec.sport.hockey']
+	 id: 6439e880f811432545a50f8434229635769da9e2 labels: ['sci.space', 'sci.astro', 'alt.sci.planetary']
+	 id: 17d32428b866623193bac100a5369f5f05e9c34c labels: ['sci.space']
+
+Medoid id: e1302a59399aa8e856197285e0236c7c49bf117a label: ['sci.space']
+Cercanos:
+	 id: ce789beb1b5318cbf5ecbdae2500a9fa55d11733 labels: ['sci.space']
+	 id: ce7cd237511b65856c33e25a65774fdba458746a labels: ['alt.activism.d', 'talk.politics.misc', 'talk.politics.medicine']
+	 id: 7ba51eb8d8c20c861ce5cb6795666215a973d41f labels: ['sci.crypt']
+	 id: 6439e880f811432545a50f8434229635769da9e2 labels: ['sci.space', 'sci.astro', 'alt.sci.planetary']
+	 id: 627410592b32f9ff34e021a30ba61cdbaa4fbcf7 labels: ['sci.space']
+
+Medoid id: 6c9a314071cbd9a48cbeddab4b1bdd01be01a98d label: ['sci.space']
+Cercanos:
+	 id: 4f83960672c33c678289e814415e5049f7ec9860 labels: ['sci.crypt', 'alt.privacy.clipper']
+	 id: 4d816b410400fba687b1f129c5dc7b10843b205e labels: ['sci.space']
+	 id: a620887c6676b6a13d24e25a43e61806d403955c labels: ['misc.forsale']
+	 id: 137306304723a13c67c09cc0694b8d9e8724d00c labels: ['sci.space.shuttle', 'sci.space']
+	 id: a9d44f409d220687c118f91f126794d342e021a9 labels: ['sci.energy', 'sci.image.processing', 'sci.anthropology', 'alt.sci.physics.new-theories', 'sci.skeptic', 'sci.med', 'alt.alien.visitors']
+
+Medoid id: b11af9fd6a408ba16bb07a5478d6e2a88f2d3cef label: ['rec.motorcycles']
+Cercanos:
+	 id: 7f030ffecdd2e89d04eaeb06ab81ad2e43831be2 labels: ['rec.sport.baseball']
+	 id: f1766a605408304b7a66603fd1caaf8ab876eb36 labels: ['comp.graphics']
+	 id: ec80b433c8db509236e851507ce0efdadc206063 labels: ['sci.med']
+	 id: 05c40fd3009ca9d041bd1ee0436767051b16992a labels: ['misc.forsale']
+	 id: 2f5b24f5d6368fb423d7e22682c7ef00986e0ed5 labels: ['comp.sys.ibm.pc.hardware']
+
+Medoid id: 06334e42e3ce9dcfa263249bd970c8475f6355a0 label: ['misc.forsale']
+Cercanos:
+	 id: 30bd92b69f11f13d760aea94fcc80a9a8161ef44 labels: ['misc.forsale']
+	 id: a620887c6676b6a13d24e25a43e61806d403955c labels: ['misc.forsale']
+	 id: 615c62b07c46c17d16ed03313f95ca28087c1af7 labels: ['wpi.forsale', 'ne.forsale', 'us.forsale.computers', 'us.forsale.misc', 'misc.forsale', 'misc.forsale.computers.other', 'misc.forsale.computers.pc-clone']
+	 id: 49ad72ea9a4fc619e16395f55a95c0f3b29f88f7 labels: ['rec.motorcycles']
+	 id: 068ed3d977a584ae16d3fd8cee10741f2b4ace07 labels: ['talk.politics.guns']
+
+Medoid id: bad23032945e8303ecdfd1eb75781a7616f22963 label: ['misc.forsale']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 4c4b28ea7fe6806dea6cc4c9293c354433017c5e label: ['comp.graphics', 'comp.graphics.animation']
+Cercanos:
+	 id: 0f8bdee0db176daa86c49c054a0736fb0f557356 labels: ['comp.graphics', 'comp.graphics.animation', 'comp.graphics.avs', 'comp.graphics.explorer']
+	 id: c536c681f0d8d00c9558cf17908366295e989261 labels: ['comp.graphics']
+	 id: f1766a605408304b7a66603fd1caaf8ab876eb36 labels: ['comp.graphics']
+	 id: 060bc7f577f8810edfd4e1d3b717732b870a83ef labels: ['alt.atheism']
+	 id: ebf6f6c0a210d201dfb909e985533e87b100662f labels: ['comp.graphics', 'comp.graphics.visualization']
+
+Medoid id: 94bf2b8beb71ee93a6b2123b506f7fe6cb0776fa label: ['rec.autos']
+Cercanos:
+	 id: 0166bfe37ab3181137c207a29a82239bffbbde96 labels: ['rec.sport.hockey']
+	 id: ff3dcc9a75e5dab720d5fe3a7e4ee3aff1658cc8 labels: ['sci.space']
+	 id: a620887c6676b6a13d24e25a43e61806d403955c labels: ['misc.forsale']
+	 id: f0c161882fa4c61a7fb841083a3ca9898763077d labels: ['alt.binaries.pictures.utilities', 'comp.graphics', 'alt.binaries.pictures.d', 'alt.binaries.pictures.erotica.d']
+	 id: c43a3ceac1aa615adc1af456d15e8b1596f68d20 labels: ['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+
+Medoid id: fc4d85a3dbea9f3d84b4adc9a604a20f6f241e24 label: ['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+Cercanos:
+	 id: 9eb09426aa2f9ac648f68340e3dfc25236c81f91 labels: ['comp.windows.x']
+	 id: 065b28859e714e4bd0f7945d5b976fa38e73fb76 labels: ['comp.windows.x']
+	 id: 127bdc9b500a01a37fbd04cc6fb9c16537d2fc4d labels: ['comp.graphics']
+	 id: 0955dfc5fa176ff8e816d37459879ae12529b3ec labels: ['talk.politics.misc', 'alt.politics.usa.misc', 'alt.politics.libertarian', 'alt.politics.clinton', 'alt.politics.bush', 'alt.politics.perot', 'alt.fan.rush-limbaugh']
+	 id: 25c381ed06c64668285d4a456fe2a439125d028b labels: ['sci.crypt']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 48855f23e4a90d03ff85e62c533112e1b6421993 label: ['misc.forsale']
+Cercanos:
+	 id: 06d946414dc155282d322bbd2795201396de914b labels: ['comp.graphics', 'alt.cad.autocad']
+	 id: 72ab0d3dd3676e24dc0e1368355c42c9013d21d4 labels: ['misc.forsale']
+	 id: 615c62b07c46c17d16ed03313f95ca28087c1af7 labels: ['wpi.forsale', 'ne.forsale', 'us.forsale.computers', 'us.forsale.misc', 'misc.forsale', 'misc.forsale.computers.other', 'misc.forsale.computers.pc-clone']
+	 id: 169617b702dffe201c44fa2beed1787d192a7d58 labels: ['misc.forsale']
+	 id: 05c40fd3009ca9d041bd1ee0436767051b16992a labels: ['misc.forsale']
+
+Medoid id: ddccd7e49eccfcac313c0ae98af2562bee526d28 label: ['talk.politics.mideast']
+Cercanos:
+	 id: 94b43a366571a3b44169927f547ba6d3b997508e labels: ['rec.autos']
+	 id: 00bd9c9534b4d3e46b0a247089e350df619c92c9 labels: ['soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish']
+	 id: c43a3ceac1aa615adc1af456d15e8b1596f68d20 labels: ['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+	 id: abebf2075eae27122f4bae54c799cd6da7c75adf labels: ['sci.med']
+	 id: 8e2fd0ca253d9666c7624b76f7bbffbd36e1e98c labels: ['talk.politics.mideast']
+
+Medoid id: 8e2fd0ca253d9666c7624b76f7bbffbd36e1e98c label: ['talk.politics.mideast']
+Cercanos:
+	 id: 157d1abf1da3d49622c8d1370416f2eb98581ca5 labels: ['talk.politics.mideast']
+	 id: 46e30c1c888ad1cb4b19a5f927e862cccf6a1880 labels: ['talk.politics.mideast']
+	 id: ddccd7e49eccfcac313c0ae98af2562bee526d28 labels: ['talk.politics.mideast']
+	 id: 4594e0e6b7710248298ec49b1e111c152ca65884 labels: ['misc.forsale']
+	 id: e9e01d61e71fd7e7999333a9d2a90fcaaf92947e labels: ['comp.windows.x']
+
+Medoid id: 8096eecd5215a6dcb54343143c9c4266a168d99f label: ['sci.crypt', 'sci.answers', 'news.answers']
+Cercanos:
+	 id: b56cb4e51dd1f58e4f7aa5e131b45589bdff1015 labels: ['sci.crypt', 'alt.privacy.clipper']
+	 id: 06d946414dc155282d322bbd2795201396de914b labels: ['comp.graphics', 'alt.cad.autocad']
+	 id: 7ba51eb8d8c20c861ce5cb6795666215a973d41f labels: ['sci.crypt']
+	 id: 46e30c1c888ad1cb4b19a5f927e862cccf6a1880 labels: ['talk.politics.mideast']
+	 id: fbefff3f9e75f68896fdf45b6fde6b03859a5e3f labels: ['talk.politics.mideast']
+
+Medoid id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 label: ['rec.motorcycles']
+Cercanos:
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: 006f147ca4b3c4ee4725e55fb49c0615d5584bd8 labels: ['comp.os.ms-windows.misc']
+	 id: 936be707704446f6b312bd96d3d299d73379c90b labels: ['rec.motorcycles']
+	 id: 513c485118a402c1ec5e77e0aab9bfff31a6471a labels: ['fl.forsale', 'misc.forsale', 'rec.arts.comics.marketplace', 'rec.collecting']
+	 id: ef70208855a09d1c43aa660341241e688f89ef7f labels: ['rec.sport.hockey']
+
+Medoid id: a504a9274abd685e421c5b04a639c084c2309f34 label: ['talk.politics.mideast']
+Cercanos:
+	 id: 1aed40fd897f542ae8b9103f100747641edb41d3 labels: ['talk.politics.mideast']
+	 id: 8ff98b1835ae642c9e326655fbcbd628bcd71bb7 labels: ['talk.politics.mideast']
+	 id: 46e30c1c888ad1cb4b19a5f927e862cccf6a1880 labels: ['talk.politics.mideast']
+	 id: 500d789663c15768138c83b3aa55d1892fbb439b labels: ['talk.politics.mideast']
+	 id: fbefff3f9e75f68896fdf45b6fde6b03859a5e3f labels: ['talk.politics.mideast']
+
+Medoid id: 005c4621f6b591d25121f63f734d6150888618a4 label: ['comp.graphics']
+Cercanos:
+	 id: 0f8bdee0db176daa86c49c054a0736fb0f557356 labels: ['comp.graphics', 'comp.graphics.animation', 'comp.graphics.avs', 'comp.graphics.explorer']
+	 id: 55a5468b60d7b3afd0eee49e3bd42912578b41b4 labels: ['rec.autos']
+	 id: e4933120778b19c070c42743940fce7c135b542e labels: ['comp.sys.mac.hardware', 'comp.sys.mac.misc', 'comp.sys.mac.apps', 'comp.sys.mac.system']
+	 id: 94bf2b8beb71ee93a6b2123b506f7fe6cb0776fa labels: ['rec.autos']
+	 id: 06334e42e3ce9dcfa263249bd970c8475f6355a0 labels: ['misc.forsale']
+
+Medoid id: 16c008bace35ceae644b79d774967f1af06e1bce label: ['comp.os.ms-windows.apps', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+Cercanos:
+	 id: 355574eed26f0c8e684a0a5a76131559d17c4ec5 labels: ['comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+	 id: 84147e95fdb5b2c727e78d2bc6b76240f75c0784 labels: ['alt.fan.bill-gates', 'comp.os.ms-windows.advocacy', 'comp.os.ms-windows.misc']
+	 id: 1b2a3a42e67408a3c92c5e49d6e34eaca2b06685 labels: ['comp.os.ms-windows.misc']
+	 id: ee31714bb0bdd8aa583977ea20496c1f841b89b4 labels: ['comp.os.ms-windows.misc']
+	 id: c39801929ec61cc04ff3ec0635ffb3d00f806250 labels: ['comp.os.ms-windows.misc']
+
+Medoid id: ecc54f5b966d1000f42ab957df19ec0876722f7f label: ['rec.motorcycles']
+Cercanos:
+	 id: 2f5b24f5d6368fb423d7e22682c7ef00986e0ed5 labels: ['comp.sys.ibm.pc.hardware']
+	 id: 44419458dc8929c48a33bc9c89ba7bd6fc4c4161 labels: ['rec.sport.hockey']
+	 id: 3729a11d12183cf92caedd20d86f99fc596b3adc labels: ['rec.autos']
+	 id: 8ff98b1835ae642c9e326655fbcbd628bcd71bb7 labels: ['talk.politics.mideast']
+	 id: de5b88544cae76ac9974a1ef9f6991b111871ec8 labels: ['sci.crypt']
+
+Medoid id: 6dca76bf6683103b62d2dbea05b05d56558d53dd label: ['rec.sport.hockey']
+Cercanos:
+	 id: 9a8622337c3256a678ded8b05fe71b4142c9e91b labels: ['comp.sys.mac.hardware']
+	 id: 5d78e781ffeb4046d29dae2f85b6d3ba5efa8dbc labels: ['talk.religion.misc']
+	 id: db573d9cd1949a4a53ef759ea8e2e4b596e01c70 labels: ['alt.atheism', 'talk.bizarre']
+	 id: 39721cfbaf591d6c53dfc519caa0477c1eb3d1b3 labels: ['sci.med']
+	 id: 0166bfe37ab3181137c207a29a82239bffbbde96 labels: ['rec.sport.hockey']
+
+Medoid id: d7cb72b2ffd88b8fbb3821f9eddc970f346a8850 label: ['rec.sport.hockey']
+Cercanos:
+	 id: be8b55d512ddc07bb315f158a5c67556237feed6 labels: ['rec.autos']
+	 id: 539834e798cb3c028a40e5364835e05e5150ce87 labels: ['rec.sport.baseball']
+	 id: 44419458dc8929c48a33bc9c89ba7bd6fc4c4161 labels: ['rec.sport.hockey']
+	 id: 206e6de85583eef5c7e9ce051bfc18828e778522 labels: ['rec.sport.baseball']
+	 id: 0166bfe37ab3181137c207a29a82239bffbbde96 labels: ['rec.sport.hockey']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 5038dd82c05029e55d08932198fa73e9623e9789 label: ['sci.electronics']
+Cercanos:
+	 id: 9445fd74af22f1a31f054e02d76abcc9a003b6d6 labels: ['talk.politics.guns', 'talk.politics.misc', 'alt.drugs', 'alt.conspiracy']
+	 id: 67449d467b0e2579fc5d19b31f3297e80cf87265 labels: ['comp.os.ms-windows.misc']
+	 id: 03b460548ee071decfc234132f73cee41602c795 labels: ['rec.autos', 'rec.autos.tech']
+	 id: 7f030ffecdd2e89d04eaeb06ab81ad2e43831be2 labels: ['rec.sport.baseball']
+	 id: b08a790d5b672c017289f5af7a3f8a05378216ca labels: ['sci.med']
+
+Medoid id: ea7387f426a0f3af13a9fc4fc0d83dbed3bc4baf label: ['talk.politics.mideast']
+Cercanos:
+	 id: 88d1f5d2387e47147150388e08622feaf42dc520 labels: ['talk.abortion', 'talk.politics.misc', 'talk.religion.misc']
+	 id: e5d1d9c649f179bcb9bd40881148032dadf5e1f5 labels: ['sci.med']
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: 776bfe1775bd3a50a04fd06457ce058576b05731 labels: ['talk.politics.mideast']
+	 id: 05c40fd3009ca9d041bd1ee0436767051b16992a labels: ['misc.forsale']
+
+Medoid id: e86aa3849668d92a614195491ae2fb2e850f28aa label: ['comp.windows.x']
+Cercanos:
+	 id: e7fed287de899950e3172dd0e75a5faddfa8a605 labels: ['comp.graphics']
+	 id: 50fd875053545d333608f0156e6a4e26e4f58966 labels: ['sci.space']
+	 id: 05c40fd3009ca9d041bd1ee0436767051b16992a labels: ['misc.forsale']
+	 id: 24dfbde668e27eee97128004f0c2c28400302c9c labels: ['comp.graphics']
+	 id: 34b4399b4b887d7811d91ac0006b665e2b4a8633 labels: ['comp.windows.x']
+
+Medoid id: 8ff98b1835ae642c9e326655fbcbd628bcd71bb7 label: ['talk.politics.mideast']
+Cercanos:
+	 id: 46e30c1c888ad1cb4b19a5f927e862cccf6a1880 labels: ['talk.politics.mideast']
+	 id: fbefff3f9e75f68896fdf45b6fde6b03859a5e3f labels: ['talk.politics.mideast']
+	 id: 1aed40fd897f542ae8b9103f100747641edb41d3 labels: ['talk.politics.mideast']
+	 id: 00bd9c9534b4d3e46b0a247089e350df619c92c9 labels: ['soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish']
+	 id: a504a9274abd685e421c5b04a639c084c2309f34 labels: ['talk.politics.mideast']
+
+Medoid id: 1f83a9240c1ebfb82378f3df908b9fe4b9fad708 label: ['comp.os.msdos.programmer', 'alt.msdos.programmer', 'sci.electronics']
+Cercanos:
+	 id: 746696fc12da427d14a40eedaefd0332364ddcff labels: ['comp.graphics']
+	 id: 3729a11d12183cf92caedd20d86f99fc596b3adc labels: ['rec.autos']
+	 id: 84147e95fdb5b2c727e78d2bc6b76240f75c0784 labels: ['alt.fan.bill-gates', 'comp.os.ms-windows.advocacy', 'comp.os.ms-windows.misc']
+	 id: 16c008bace35ceae644b79d774967f1af06e1bce labels: ['comp.os.ms-windows.apps', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+	 id: 0f8bdee0db176daa86c49c054a0736fb0f557356 labels: ['comp.graphics', 'comp.graphics.animation', 'comp.graphics.avs', 'comp.graphics.explorer']
+
+Medoid id: ce789beb1b5318cbf5ecbdae2500a9fa55d11733 label: ['sci.space']
+Cercanos:
+	 id: 137306304723a13c67c09cc0694b8d9e8724d00c labels: ['sci.space.shuttle', 'sci.space']
+	 id: 627410592b32f9ff34e021a30ba61cdbaa4fbcf7 labels: ['sci.space']
+	 id: e1302a59399aa8e856197285e0236c7c49bf117a labels: ['sci.space']
+	 id: 6439e880f811432545a50f8434229635769da9e2 labels: ['sci.space', 'sci.astro', 'alt.sci.planetary']
+	 id: ff3dcc9a75e5dab720d5fe3a7e4ee3aff1658cc8 labels: ['sci.space']
+
+Medoid id: f091e389919a78a0c04edc77bdd6cafc5bebc3ce label: ['rec.autos', 'rec.autos.tech', 'rec.autos.sport', 'rec.autos.driving', 'rec.autos.vw', 'alt.autos.antique', 'news.answers']
+Cercanos:
+	 id: 03b460548ee071decfc234132f73cee41602c795 labels: ['rec.autos', 'rec.autos.tech']
+	 id: 3729a11d12183cf92caedd20d86f99fc596b3adc labels: ['rec.autos']
+	 id: 94b43a366571a3b44169927f547ba6d3b997508e labels: ['rec.autos']
+	 id: 94bf2b8beb71ee93a6b2123b506f7fe6cb0776fa labels: ['rec.autos']
+	 id: 6757f5679b64bd4198da108a731ed692bf0f93fb labels: ['rec.autos']
+
+Medoid id: f2989f05fcfef773bbfebc834135b70ceb0a67df label: ['talk.politics.guns']
+Cercanos:
+	 id: 699cf8e1d06e8ef60b26466c5b491e6b9a2236b0 labels: ['sci.electronics']
+	 id: b86584e1611a70ac04b6ef63f2513bc0a40dab9e labels: ['comp.windows.x']
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: f1766a605408304b7a66603fd1caaf8ab876eb36 labels: ['comp.graphics']
+	 id: 55a5468b60d7b3afd0eee49e3bd42912578b41b4 labels: ['rec.autos']
+
+Medoid id: 615c62b07c46c17d16ed03313f95ca28087c1af7 label: ['wpi.forsale', 'ne.forsale', 'us.forsale.computers', 'us.forsale.misc', 'misc.forsale', 'misc.forsale.computers.other', 'misc.forsale.computers.pc-clone']
+Cercanos:
+	 id: ab13da13a1e6620af48d3e47b30a6b22436e65b9 labels: ['phl.forsale', 'nj.forsale', 'misc.forsale']
+	 id: a620887c6676b6a13d24e25a43e61806d403955c labels: ['misc.forsale']
+	 id: 800ebd6839fbb7ba3bf44348c46039e15c3c49db labels: ['comp.sys.amiga.marketplace', 'misc.forsale']
+	 id: 14e3fa5d2d6f5398b307735a3a39d53424e15cec labels: ['misc.forsale']
+	 id: bb77bf904175df31b188ec8f0ff45d99bf3b819d labels: ['misc.forsale']
+
+Medoid id: 2f5b24f5d6368fb423d7e22682c7ef00986e0ed5 label: ['comp.sys.ibm.pc.hardware']
+Cercanos:
+	 id: 44419458dc8929c48a33bc9c89ba7bd6fc4c4161 labels: ['rec.sport.hockey']
+	 id: f95d10b73e19a84148c5b1e8c6e89836b23ec4af labels: ['comp.sys.mac.hardware']
+	 id: a749dee518d288fb2e766edc0fe1b0f221479319 labels: ['talk.politics.mideast', 'soc.culture.arabic']
+	 id: de5b88544cae76ac9974a1ef9f6991b111871ec8 labels: ['sci.crypt']
+	 id: ecc54f5b966d1000f42ab957df19ec0876722f7f labels: ['rec.motorcycles']
+
+Medoid id: 04f657ab1c586aad3bfdcf630791050fd3772313 label: ['soc.religion.christian']
+Cercanos:
+	 id: 2eedc4c74e5fdd6e0681ab5b6c6296c930ff1749 labels: ['soc.religion.christian']
+	 id: fb7ef7e76baff5e5bf4d52a05c86fa32a8a17377 labels: ['soc.religion.christian']
+	 id: d3a739234b083f5cc3ca874e3d0422649c7da74e labels: ['soc.religion.christian']
+	 id: a2b23f652a27debefe2ae651876b20f112cc0071 labels: ['soc.religion.christian']
+	 id: 97dcca5828a8f2f522391f0b8290e37fe42a2178 labels: ['soc.religion.christian']
+
+Medoid id: f95d10b73e19a84148c5b1e8c6e89836b23ec4af label: ['comp.sys.mac.hardware']
+Cercanos:
+	 id: 2f5b24f5d6368fb423d7e22682c7ef00986e0ed5 labels: ['comp.sys.ibm.pc.hardware']
+	 id: e4933120778b19c070c42743940fce7c135b542e labels: ['comp.sys.mac.hardware', 'comp.sys.mac.misc', 'comp.sys.mac.apps', 'comp.sys.mac.system']
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: f95311d2213d69b488ead6ee6c24af68319afb4f labels: ['rec.motorcycles']
+	 id: b11af9fd6a408ba16bb07a5478d6e2a88f2d3cef labels: ['rec.motorcycles']
+
+Medoid id: 17d32428b866623193bac100a5369f5f05e9c34c label: ['sci.space']
+Cercanos:
+	 id: 6439e880f811432545a50f8434229635769da9e2 labels: ['sci.space', 'sci.astro', 'alt.sci.planetary']
+	 id: 1af7fd6dc07c68a239b619fd95dc1174551c045e labels: ['sci.crypt']
+	 id: 627410592b32f9ff34e021a30ba61cdbaa4fbcf7 labels: ['sci.space']
+	 id: 50fd875053545d333608f0156e6a4e26e4f58966 labels: ['sci.space']
+	 id: ebf6f6c0a210d201dfb909e985533e87b100662f labels: ['comp.graphics', 'comp.graphics.visualization']
+
+Medoid id: 781675dbaff85feee1f3b7b0d26ff8e7598e1b75 label: ['comp.windows.x']
+Cercanos:
+	 id: 34b4399b4b887d7811d91ac0006b665e2b4a8633 labels: ['comp.windows.x']
+	 id: 355574eed26f0c8e684a0a5a76131559d17c4ec5 labels: ['comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+	 id: fbefff3f9e75f68896fdf45b6fde6b03859a5e3f labels: ['talk.politics.mideast']
+	 id: 16c008bace35ceae644b79d774967f1af06e1bce labels: ['comp.os.ms-windows.apps', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+	 id: e78e9f054ec2a7a3271902ace2bba6fa5e5dd93e labels: ['soc.rights.human', 'soc.culture.soviet', 'soc.culture.turkish', 'talk.politics.mideast', 'talk.politics.soviet']
+
+Medoid id: 4d816b410400fba687b1f129c5dc7b10843b205e label: ['sci.space']
+Cercanos:
+	 id: efdcff152d3114d7343ad6907faebf3033114628 labels: ['misc.consumers', 'sci.med', 'rec.food.cooking', 'sci.environment']
+	 id: 137306304723a13c67c09cc0694b8d9e8724d00c labels: ['sci.space.shuttle', 'sci.space']
+	 id: 627410592b32f9ff34e021a30ba61cdbaa4fbcf7 labels: ['sci.space']
+	 id: 6c9a314071cbd9a48cbeddab4b1bdd01be01a98d labels: ['sci.space']
+	 id: ce789beb1b5318cbf5ecbdae2500a9fa55d11733 labels: ['sci.space']
+
+Medoid id: 206e6de85583eef5c7e9ce051bfc18828e778522 label: ['rec.sport.baseball']
+Cercanos:
+	 id: 0955dfc5fa176ff8e816d37459879ae12529b3ec labels: ['talk.politics.misc', 'alt.politics.usa.misc', 'alt.politics.libertarian', 'alt.politics.clinton', 'alt.politics.bush', 'alt.politics.perot', 'alt.fan.rush-limbaugh']
+	 id: d7cb72b2ffd88b8fbb3821f9eddc970f346a8850 labels: ['rec.sport.hockey']
+	 id: 05c40fd3009ca9d041bd1ee0436767051b16992a labels: ['misc.forsale']
+	 id: 68d9caa887d4d05b108bd1d92e737052151b2fda labels: ['rec.sport.baseball']
+	 id: 30bd92b69f11f13d760aea94fcc80a9a8161ef44 labels: ['misc.forsale']
+
+Medoid id: 73001832ed876fa2d6cea2614f72237b20543999 label: ['sci.electronics']
+Cercanos:
+	 id: 1aed40fd897f542ae8b9103f100747641edb41d3 labels: ['talk.politics.mideast']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 28b75038d052d089c6189e71752faf1d2106739c label: ['misc.forsale']
+Cercanos:
+	 id: 615c62b07c46c17d16ed03313f95ca28087c1af7 labels: ['wpi.forsale', 'ne.forsale', 'us.forsale.computers', 'us.forsale.misc', 'misc.forsale', 'misc.forsale.computers.other', 'misc.forsale.computers.pc-clone']
+	 id: e3ab3b59ee9f86e6bc1363a006af9e6deeb9a286 labels: ['comp.sys.ibm.pc.misc', 'comp.sys.ibm.pc.hardware']
+	 id: 6439e880f811432545a50f8434229635769da9e2 labels: ['sci.space', 'sci.astro', 'alt.sci.planetary']
+	 id: 17d32428b866623193bac100a5369f5f05e9c34c labels: ['sci.space']
+	 id: ab13da13a1e6620af48d3e47b30a6b22436e65b9 labels: ['phl.forsale', 'nj.forsale', 'misc.forsale']
+
+Medoid id: ac6a3df74963ea71e6fbbdaa192b85a287834bf3 label: ['rec.autos']
+Cercanos:
+	 id: 094060f621ae3b1d04c6a7139fa98b5b2b6b9056 labels: ['rec.autos']
+	 id: 2dceedffab41a1053ac79848903f9b3801f52d5e labels: ['misc.forsale']
+	 id: f661d009212fef129ef0a121fa51c73f40a86e28 labels: ['talk.politics.guns']
+	 id: 63a89dc1d61945a78a367207e1cc6ac645ab30f0 labels: ['rec.autos']
+	 id: 55a5468b60d7b3afd0eee49e3bd42912578b41b4 labels: ['rec.autos']
+
+Medoid id: 776bfe1775bd3a50a04fd06457ce058576b05731 label: ['talk.politics.mideast']
+Cercanos:
+	 id: 46e30c1c888ad1cb4b19a5f927e862cccf6a1880 labels: ['talk.politics.mideast']
+	 id: 500d789663c15768138c83b3aa55d1892fbb439b labels: ['talk.politics.mideast']
+	 id: 1aed40fd897f542ae8b9103f100747641edb41d3 labels: ['talk.politics.mideast']
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+	 id: 8ff98b1835ae642c9e326655fbcbd628bcd71bb7 labels: ['talk.politics.mideast']
+
+Medoid id: 4307218c8aed44c126e4c97d4ab4402fc5c56fdc label: ['sci.med']
+Cercanos:
+	 id: 30bd92b69f11f13d760aea94fcc80a9a8161ef44 labels: ['misc.forsale']
+	 id: 06334e42e3ce9dcfa263249bd970c8475f6355a0 labels: ['misc.forsale']
+	 id: a9d44f409d220687c118f91f126794d342e021a9 labels: ['sci.energy', 'sci.image.processing', 'sci.anthropology', 'alt.sci.physics.new-theories', 'sci.skeptic', 'sci.med', 'alt.alien.visitors']
+	 id: b2cc5244e08d8f2e18fee61e491d29f2a3aa05f2 labels: ['alt.atheism']
+	 id: 740c2130cf95fbf92f40c67b5bf16d5929a51b79 labels: ['soc.religion.christian']
+
+Medoid id: 00bd9c9534b4d3e46b0a247089e350df619c92c9 label: ['soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish']
+Cercanos:
+	 id: 4a2d60ef2932a196bd807a0ebcc44ad0c9da79f2 labels: ['soc.culture.arabic', 'soc.culture.bosna-herzgvna', 'soc.culture.indian', 'soc.culture.iranian', 'soc.culture.jewish', 'soc.culture.pakistan', 'soc.culture.turkish', 'soc.culture.afganistan', 'talk.politics.mideast', 'soc.culture.african', 'soc.culture.malaysia']
+	 id: c43a3ceac1aa615adc1af456d15e8b1596f68d20 labels: ['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+	 id: b59568ce29cf32083825310b3b9a987d0b3f4110 labels: ['talk.politics.mideast']
+	 id: 8ff98b1835ae642c9e326655fbcbd628bcd71bb7 labels: ['talk.politics.mideast']
+	 id: ddccd7e49eccfcac313c0ae98af2562bee526d28 labels: ['talk.politics.mideast']
+
+Medoid id: c39801929ec61cc04ff3ec0635ffb3d00f806250 label: ['comp.os.ms-windows.misc']
+Cercanos:
+	 id: 79d74cd3af5a7d136a539be1c0c16e769f6e24b9 labels: ['comp.graphics']
+	 id: 16c008bace35ceae644b79d774967f1af06e1bce labels: ['comp.os.ms-windows.apps', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+	 id: 6a55dc994e48fbd87f1db6c472515e4f238e597a labels: ['sci.space']
+	 id: fbefff3f9e75f68896fdf45b6fde6b03859a5e3f labels: ['talk.politics.mideast']
+	 id: ba174b3c7ec620d3176f692d98a97cffaa3168b9 labels: ['alt.atheism']
+
+Medoid id: ce7cd237511b65856c33e25a65774fdba458746a label: ['alt.activism.d', 'talk.politics.misc', 'talk.politics.medicine']
+Cercanos:
+	 id: 88d1f5d2387e47147150388e08622feaf42dc520 labels: ['talk.abortion', 'talk.politics.misc', 'talk.religion.misc']
+	 id: 157d1abf1da3d49622c8d1370416f2eb98581ca5 labels: ['talk.politics.mideast']
+	 id: e1302a59399aa8e856197285e0236c7c49bf117a labels: ['sci.space']
+	 id: a504a9274abd685e421c5b04a639c084c2309f34 labels: ['talk.politics.mideast']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 936be707704446f6b312bd96d3d299d73379c90b label: ['rec.motorcycles']
+Cercanos:
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: ab13da13a1e6620af48d3e47b30a6b22436e65b9 labels: ['phl.forsale', 'nj.forsale', 'misc.forsale']
+	 id: cc780afc0a02281bfef88b2f367a35b333b0a6a8 labels: ['sci.med']
+	 id: ee45021e94712cbe830bec88c9b90b7ca435c27b labels: ['rec.motorcycles']
+
+Medoid id: 98be31218ff07d60d7ca2d46e5d7d51e686f714e label: ['alt.atheism']
+Cercanos:
+	 id: ebf6f6c0a210d201dfb909e985533e87b100662f labels: ['comp.graphics', 'comp.graphics.visualization']
+	 id: 2dceedffab41a1053ac79848903f9b3801f52d5e labels: ['misc.forsale']
+	 id: be8b55d512ddc07bb315f158a5c67556237feed6 labels: ['rec.autos']
+	 id: 4bc75adda4f50c2e9d235e35fec57f08543d0c53 labels: ['sci.electronics']
+	 id: 539834e798cb3c028a40e5364835e05e5150ce87 labels: ['rec.sport.baseball']
+
+Medoid id: 699cf8e1d06e8ef60b26466c5b491e6b9a2236b0 label: ['sci.electronics']
+Cercanos:
+	 id: f2989f05fcfef773bbfebc834135b70ceb0a67df labels: ['talk.politics.guns']
+	 id: 137306304723a13c67c09cc0694b8d9e8724d00c labels: ['sci.space.shuttle', 'sci.space']
+	 id: ee4f138167b8c54d304b8ead826b17ae5a4cae9d labels: ['soc.religion.christian']
+	 id: 5038dd82c05029e55d08932198fa73e9623e9789 labels: ['sci.electronics']
+	 id: 7f030ffecdd2e89d04eaeb06ab81ad2e43831be2 labels: ['rec.sport.baseball']
+
+Medoid id: ab13da13a1e6620af48d3e47b30a6b22436e65b9 label: ['phl.forsale', 'nj.forsale', 'misc.forsale']
+Cercanos:
+	 id: 513c485118a402c1ec5e77e0aab9bfff31a6471a labels: ['fl.forsale', 'misc.forsale', 'rec.arts.comics.marketplace', 'rec.collecting']
+	 id: 615c62b07c46c17d16ed03313f95ca28087c1af7 labels: ['wpi.forsale', 'ne.forsale', 'us.forsale.computers', 'us.forsale.misc', 'misc.forsale', 'misc.forsale.computers.other', 'misc.forsale.computers.pc-clone']
+	 id: 14e3fa5d2d6f5398b307735a3a39d53424e15cec labels: ['misc.forsale']
+	 id: 936be707704446f6b312bd96d3d299d73379c90b labels: ['rec.motorcycles']
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+
+Medoid id: 8db2668617b7a5af329532aeb5f94cad12639437 label: ['rec.sport.hockey']
+Cercanos:
+	 id: aa288ffb1e86c561ef53bf65e78d7e88f247734c labels: ['talk.politics.guns']
+	 id: b441767ca4251f847adc08694a9b3d867b275020 labels: ['rec.sport.hockey']
+	 id: d1bc8f2598290995c294fb881b81214765c18daa labels: ['comp.sys.mac.hardware']
+	 id: 44419458dc8929c48a33bc9c89ba7bd6fc4c4161 labels: ['rec.sport.hockey']
+	 id: aab409bbf3c9f998dcf417df84307ae175a35d84 labels: ['sci.med']
+
+Medoid id: a089a8313424e3c34be75f4ea92a7c1cd8fb3299 label: ['talk.politics.mideast', 'talk.politics.soviet', 'soc.culture.greek', 'soc.history', 'soc.culture.soviet', 'soc.culture.turkish', 'soc.rights.human']
+Cercanos:
+	 id: 4a2d60ef2932a196bd807a0ebcc44ad0c9da79f2 labels: ['soc.culture.arabic', 'soc.culture.bosna-herzgvna', 'soc.culture.indian', 'soc.culture.iranian', 'soc.culture.jewish', 'soc.culture.pakistan', 'soc.culture.turkish', 'soc.culture.afganistan', 'talk.politics.mideast', 'soc.culture.african', 'soc.culture.malaysia']
+	 id: a749dee518d288fb2e766edc0fe1b0f221479319 labels: ['talk.politics.mideast', 'soc.culture.arabic']
+	 id: 00bd9c9534b4d3e46b0a247089e350df619c92c9 labels: ['soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish']
+	 id: e78e9f054ec2a7a3271902ace2bba6fa5e5dd93e labels: ['soc.rights.human', 'soc.culture.soviet', 'soc.culture.turkish', 'talk.politics.mideast', 'talk.politics.soviet']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 06d946414dc155282d322bbd2795201396de914b label: ['comp.graphics', 'alt.cad.autocad']
+Cercanos:
+	 id: 48855f23e4a90d03ff85e62c533112e1b6421993 labels: ['misc.forsale']
+	 id: 8096eecd5215a6dcb54343143c9c4266a168d99f labels: ['sci.crypt', 'sci.answers', 'news.answers']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: de5b88544cae76ac9974a1ef9f6991b111871ec8 label: ['sci.crypt']
+Cercanos:
+	 id: ee45021e94712cbe830bec88c9b90b7ca435c27b labels: ['rec.motorcycles']
+	 id: 2f5b24f5d6368fb423d7e22682c7ef00986e0ed5 labels: ['comp.sys.ibm.pc.hardware']
+	 id: 44419458dc8929c48a33bc9c89ba7bd6fc4c4161 labels: ['rec.sport.hockey']
+	 id: ecc54f5b966d1000f42ab957df19ec0876722f7f labels: ['rec.motorcycles']
+	 id: 06d946414dc155282d322bbd2795201396de914b labels: ['comp.graphics', 'alt.cad.autocad']
+
+Medoid id: 299fb12b4eac2477a3abaa7f4451636c88b018ef label: ['rec.sport.baseball']
+Cercanos:
+	 id: 44419458dc8929c48a33bc9c89ba7bd6fc4c4161 labels: ['rec.sport.hockey']
+	 id: b441767ca4251f847adc08694a9b3d867b275020 labels: ['rec.sport.hockey']
+	 id: 539834e798cb3c028a40e5364835e05e5150ce87 labels: ['rec.sport.baseball']
+	 id: be8b55d512ddc07bb315f158a5c67556237feed6 labels: ['rec.autos']
+	 id: 1a078caccd6b589838401aecac044f597bb2341a labels: ['alt.atheism']
+
+Medoid id: b28ce58479196dffc1d3018849fd8b074e90c02d label: ['rec.motorcycles']
+Cercanos:
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: 6b68799c016628ea3d2f1b6bc47cd27e9a618133 labels: ['rec.motorcycles']
+	 id: f661d009212fef129ef0a121fa51c73f40a86e28 labels: ['talk.politics.guns']
+	 id: 06334e42e3ce9dcfa263249bd970c8475f6355a0 labels: ['misc.forsale']
+	 id: 94bf2b8beb71ee93a6b2123b506f7fe6cb0776fa labels: ['rec.autos']
+
+Medoid id: 9eb09426aa2f9ac648f68340e3dfc25236c81f91 label: ['comp.windows.x']
+Cercanos:
+	 id: 127bdc9b500a01a37fbd04cc6fb9c16537d2fc4d labels: ['comp.graphics']
+	 id: 065b28859e714e4bd0f7945d5b976fa38e73fb76 labels: ['comp.windows.x']
+	 id: fc4d85a3dbea9f3d84b4adc9a604a20f6f241e24 labels: ['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+	 id: 0955dfc5fa176ff8e816d37459879ae12529b3ec labels: ['talk.politics.misc', 'alt.politics.usa.misc', 'alt.politics.libertarian', 'alt.politics.clinton', 'alt.politics.bush', 'alt.politics.perot', 'alt.fan.rush-limbaugh']
+	 id: aab409bbf3c9f998dcf417df84307ae175a35d84 labels: ['sci.med']
+
+Medoid id: 7d06f63e45ae635269659ea553b5ec621a9856e0 label: ['soc.religion.christian']
+Cercanos:
+	 id: 97dcca5828a8f2f522391f0b8290e37fe42a2178 labels: ['soc.religion.christian']
+	 id: 56243c8fc183e1e73d3650759f8d37d830fd284e labels: ['soc.religion.christian']
+	 id: fb7ef7e76baff5e5bf4d52a05c86fa32a8a17377 labels: ['soc.religion.christian']
+	 id: d3a739234b083f5cc3ca874e3d0422649c7da74e labels: ['soc.religion.christian']
+	 id: ee4f138167b8c54d304b8ead826b17ae5a4cae9d labels: ['soc.religion.christian']
+
+Medoid id: 800ebd6839fbb7ba3bf44348c46039e15c3c49db label: ['comp.sys.amiga.marketplace', 'misc.forsale']
+Cercanos:
+	 id: 1d00b4ff7757ea9d870b5b5856bcf5cc1bc77075 labels: ['rec.motorcycles']
+	 id: 1a078caccd6b589838401aecac044f597bb2341a labels: ['alt.atheism']
+	 id: 615c62b07c46c17d16ed03313f95ca28087c1af7 labels: ['wpi.forsale', 'ne.forsale', 'us.forsale.computers', 'us.forsale.misc', 'misc.forsale', 'misc.forsale.computers.other', 'misc.forsale.computers.pc-clone']
+	 id: a620887c6676b6a13d24e25a43e61806d403955c labels: ['misc.forsale']
+	 id: e4933120778b19c070c42743940fce7c135b542e labels: ['comp.sys.mac.hardware', 'comp.sys.mac.misc', 'comp.sys.mac.apps', 'comp.sys.mac.system']
+
+Medoid id: 88d1f5d2387e47147150388e08622feaf42dc520 label: ['talk.abortion', 'talk.politics.misc', 'talk.religion.misc']
+Cercanos:
+	 id: ea7387f426a0f3af13a9fc4fc0d83dbed3bc4baf labels: ['talk.politics.mideast']
+	 id: ce7cd237511b65856c33e25a65774fdba458746a labels: ['alt.activism.d', 'talk.politics.misc', 'talk.politics.medicine']
+	 id: c43a3ceac1aa615adc1af456d15e8b1596f68d20 labels: ['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+	 id: c424be8290aa70bf842f63aaf538c7adeb6d3903 labels: ['sci.med']
+	 id: 342d72bb0098926d03d0be368e041b8a5587aa60 labels: ['alt.conspiracy', 'talk.politics.misc', 'talk.religion.misc']
+
+Medoid id: 1a078caccd6b589838401aecac044f597bb2341a label: ['alt.atheism']
+Cercanos:
+	 id: 800ebd6839fbb7ba3bf44348c46039e15c3c49db labels: ['comp.sys.amiga.marketplace', 'misc.forsale']
+	 id: 1d00b4ff7757ea9d870b5b5856bcf5cc1bc77075 labels: ['rec.motorcycles']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: ee31714bb0bdd8aa583977ea20496c1f841b89b4 label: ['comp.os.ms-windows.misc']
+Cercanos:
+	 id: 16c008bace35ceae644b79d774967f1af06e1bce labels: ['comp.os.ms-windows.apps', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+	 id: 355574eed26f0c8e684a0a5a76131559d17c4ec5 labels: ['comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+	 id: 065b28859e714e4bd0f7945d5b976fa38e73fb76 labels: ['comp.windows.x']
+	 id: 34b4399b4b887d7811d91ac0006b665e2b4a8633 labels: ['comp.windows.x']
+	 id: 84147e95fdb5b2c727e78d2bc6b76240f75c0784 labels: ['alt.fan.bill-gates', 'comp.os.ms-windows.advocacy', 'comp.os.ms-windows.misc']
+
+Medoid id: 58b8530fdc6e7805ca85ae94d0a73f696513c294 label: ['comp.sys.mac.hardware']
+Cercanos:
+	 id: 2ae421c88e8c5ddc42880ad959371122b192be82 labels: ['sci.space']
+	 id: 1f36230ca84052421d0c1545d8c7357b44d20970 labels: ['rec.sport.hockey']
+	 id: e4933120778b19c070c42743940fce7c135b542e labels: ['comp.sys.mac.hardware', 'comp.sys.mac.misc', 'comp.sys.mac.apps', 'comp.sys.mac.system']
+	 id: 0f8bdee0db176daa86c49c054a0736fb0f557356 labels: ['comp.graphics', 'comp.graphics.animation', 'comp.graphics.avs', 'comp.graphics.explorer']
+	 id: 0c25da3f78ffda76818becab5518c7ea90e3428b labels: ['rec.sport.baseball']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: c424be8290aa70bf842f63aaf538c7adeb6d3903 label: ['sci.med']
+Cercanos:
+	 id: 366ae5fa9ba3d77de51dde2471cdc3b8355c8e76 labels: ['sci.med']
+	 id: e3ab3b59ee9f86e6bc1363a006af9e6deeb9a286 labels: ['comp.sys.ibm.pc.misc', 'comp.sys.ibm.pc.hardware']
+	 id: 88d1f5d2387e47147150388e08622feaf42dc520 labels: ['talk.abortion', 'talk.politics.misc', 'talk.religion.misc']
+	 id: 2f5b24f5d6368fb423d7e22682c7ef00986e0ed5 labels: ['comp.sys.ibm.pc.hardware']
+	 id: df98b7b32f4eca73b8e2b30cc60f97722c6e0c71 labels: ['comp.sys.ibm.pc.hardware']
+
+Medoid id: ff3dcc9a75e5dab720d5fe3a7e4ee3aff1658cc8 label: ['sci.space']
+Cercanos:
+	 id: 94bf2b8beb71ee93a6b2123b506f7fe6cb0776fa labels: ['rec.autos']
+	 id: ce789beb1b5318cbf5ecbdae2500a9fa55d11733 labels: ['sci.space']
+	 id: 06334e42e3ce9dcfa263249bd970c8475f6355a0 labels: ['misc.forsale']
+	 id: 137306304723a13c67c09cc0694b8d9e8724d00c labels: ['sci.space.shuttle', 'sci.space']
+	 id: 00f8b18b7953b7e1e66e1f8b9466f45498437b27 labels: ['comp.sys.ibm.pc.hardware']
+
+Medoid id: 8ac27f47749e310637b5ba8f1667a9db9a5b0dfc label: ['alt.atheism', 'talk.religion.misc', 'talk.origins']
+Cercanos:
+	 id: b2cc5244e08d8f2e18fee61e491d29f2a3aa05f2 labels: ['alt.atheism']
+	 id: 1a078caccd6b589838401aecac044f597bb2341a labels: ['alt.atheism']
+	 id: 4ef849e0c407a709691a1b3c1bb580194ffad2fe labels: ['rec.motorcycles']
+	 id: c43a3ceac1aa615adc1af456d15e8b1596f68d20 labels: ['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+	 id: a2b23f652a27debefe2ae651876b20f112cc0071 labels: ['soc.religion.christian']
+
+Medoid id: e5d1d9c649f179bcb9bd40881148032dadf5e1f5 label: ['sci.med']
+Cercanos:
+	 id: 63a89dc1d61945a78a367207e1cc6ac645ab30f0 labels: ['rec.autos']
+	 id: ea7387f426a0f3af13a9fc4fc0d83dbed3bc4baf labels: ['talk.politics.mideast']
+	 id: 6439e880f811432545a50f8434229635769da9e2 labels: ['sci.space', 'sci.astro', 'alt.sci.planetary']
+	 id: 539834e798cb3c028a40e5364835e05e5150ce87 labels: ['rec.sport.baseball']
+	 id: b08a790d5b672c017289f5af7a3f8a05378216ca labels: ['sci.med']
+
+Medoid id: 30bd92b69f11f13d760aea94fcc80a9a8161ef44 label: ['misc.forsale']
+Cercanos:
+	 id: b2cc5244e08d8f2e18fee61e491d29f2a3aa05f2 labels: ['alt.atheism']
+	 id: 068ed3d977a584ae16d3fd8cee10741f2b4ace07 labels: ['talk.politics.guns']
+	 id: 06334e42e3ce9dcfa263249bd970c8475f6355a0 labels: ['misc.forsale']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 5d78e781ffeb4046d29dae2f85b6d3ba5efa8dbc label: ['talk.religion.misc']
+Cercanos:
+	 id: db573d9cd1949a4a53ef759ea8e2e4b596e01c70 labels: ['alt.atheism', 'talk.bizarre']
+	 id: 9a8622337c3256a678ded8b05fe71b4142c9e91b labels: ['comp.sys.mac.hardware']
+	 id: 6dca76bf6683103b62d2dbea05b05d56558d53dd labels: ['rec.sport.hockey']
+	 id: d80ea4ec98cac6e10da7fcea9ea3fb596fe730e2 labels: ['rec.sport.hockey']
+	 id: 2ae421c88e8c5ddc42880ad959371122b192be82 labels: ['sci.space']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 label: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+Cercanos:
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+	 id: 66a8cc3b64e84495eb1d84ec220f5dcb5e7566e7 labels: ['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+Medoid id: 7bf91a1bb44add03871c365a00303a110fe57b40 label: ['sci.image.processing', 'alt.graphics.pixutils', 'comp.graphics']
+Cercanos:
+	 id: a9d44f409d220687c118f91f126794d342e021a9 labels: ['sci.energy', 'sci.image.processing', 'sci.anthropology', 'alt.sci.physics.new-theories', 'sci.skeptic', 'sci.med', 'alt.alien.visitors']
+	 id: 73449a124d754e6f0d6c2392c89b664551d2c2dc labels: ['comp.windows.x']
+	 id: ebf6f6c0a210d201dfb909e985533e87b100662f labels: ['comp.graphics', 'comp.graphics.visualization']
+	 id: 6c8b9b4589ffd5389cca5d4e15a4f425f6520c4d labels: ['rec.sport.hockey']
+	 id: aa288ffb1e86c561ef53bf65e78d7e88f247734c labels: ['talk.politics.guns']
